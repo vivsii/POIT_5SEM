@@ -1,0 +1,4 @@
+/mnt/c/уник/os/lab03/lab03_linux/OS03_07/build/CMakeFiles/OS03_07.dir
+/mnt/c/уник/os/lab03/lab03_linux/OS03_07/build/CMakeFiles/OS03_05_1_7.dir
+/mnt/c/уник/os/lab03/lab03_linux/OS03_07/build/CMakeFiles/edit_cache.dir
+/mnt/c/уник/os/lab03/lab03_linux/OS03_07/build/CMakeFiles/rebuild_cache.dir

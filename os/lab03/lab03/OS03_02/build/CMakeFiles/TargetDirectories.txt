@@ -1,0 +1,5 @@
+C:/уник/os/lab03/lab03/OS03_02/build/CMakeFiles/OS03_02.dir
+C:/уник/os/lab03/lab03/OS03_02/build/CMakeFiles/OS03_02_1.dir
+C:/уник/os/lab03/lab03/OS03_02/build/CMakeFiles/OS03_02_2.dir
+C:/уник/os/lab03/lab03/OS03_02/build/CMakeFiles/ALL_BUILD.dir
+C:/уник/os/lab03/lab03/OS03_02/build/CMakeFiles/ZERO_CHECK.dir

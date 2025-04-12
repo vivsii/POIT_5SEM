@@ -1,0 +1,3 @@
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+
+add_executable(OS03_03 OS03_03.cpp)

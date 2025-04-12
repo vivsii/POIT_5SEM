@@ -1,0 +1,10 @@
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+
+set(MAIN_SOURCES
+        OS03_01.cpp
+)
+
+set(HEADERS
+)
+
+add_executable(OS03_01 ${MAIN_SOURCES})

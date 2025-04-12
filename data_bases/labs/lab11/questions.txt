@@ -1,0 +1,160 @@
+### 1. Что такое PL/SQL-тип данных запись?
+
+PL/SQL-тип данных "запись" (record) — это составной тип данных, который позволяет хранить набор значений с разными типами данных в одной структуре. Каждое поле записи имеет свое имя и тип данных. Это похоже на структуру (struct) в других языках программирования.
+
+Пример объявления записи:
+```sql
+DECLARE
+  TYPE TeacherRecord IS RECORD (
+    teacher_name VARCHAR2(100),
+    salary       NUMBER
+  );
+  v_teacher TeacherRecord;
+BEGIN
+  v_teacher.teacher_name := 'Иванов Иван';
+  v_teacher.salary := 5000;
+  DBMS_OUTPUT.PUT_LINE('Преподаватель: ' || v_teacher.teacher_name || ', Зарплата: ' || v_teacher.salary);
+END;
+/
+```
+
+### 2. Перечислите способы создания и принцип применения
+
+Записи можно создавать тремя основными способами:
+
+1. **Явное объявление записи в блоке PL/SQL** — создается непосредственно в блоке программы.
+   ```sql
+   DECLARE
+     TYPE EmpRecord IS RECORD (
+       emp_id     NUMBER,
+       emp_name   VARCHAR2(100)
+     );
+     v_emp EmpRecord;
+   BEGIN
+     v_emp.emp_id := 1001;
+     v_emp.emp_name := 'John Doe';
+   END;
+   ```
+
+2. **Запись, основанная на структуре таблицы** — запись может быть основана на структуре существующей таблицы.
+   ```sql
+   DECLARE
+     v_teacher TEACHER%ROWTYPE;
+   BEGIN
+     SELECT * INTO v_teacher FROM TEACHER WHERE TEACHER_ID = 1;
+   END;
+   ```
+
+3. **Использование записи в параметрах процедур и функций** — записи могут передаваться как параметры в процедуры и функции.
+
+### 3. Что такое локальные процедуры и функции PL/SQL?
+
+Локальные процедуры и функции — это процедуры и функции, объявленные внутри другого блока PL/SQL (например, в анонимном блоке, процедуре или функции). Они доступны только внутри этого блока и не могут быть вызваны извне.
+
+Пример:
+```sql
+DECLARE
+  PROCEDURE LocalProc IS
+  BEGIN
+    DBMS_OUTPUT.PUT_LINE('Это локальная процедура');
+  END;
+BEGIN
+  LocalProc; -- Вызов локальной процедуры
+END;
+/
+```
+
+### 4. Чем отличаются процедуры от функций?
+
+- **Процедуры** выполняют действия, но не возвращают значение напрямую. Они могут иметь выходные параметры для передачи результатов.
+  
+- **Функции** обязательно возвращают значение определенного типа и могут быть использованы в SQL-выражениях.
+
+Пример процедуры:
+```sql
+CREATE OR REPLACE PROCEDURE UpdateSalary(p_teacher_id NUMBER, p_salary NUMBER) IS
+BEGIN
+  UPDATE TEACHER SET SALARY = p_salary WHERE TEACHER_ID = p_teacher_id;
+END;
+```
+
+Пример функции:
+```sql
+CREATE OR REPLACE FUNCTION GetSalary(p_teacher_id NUMBER) RETURN NUMBER IS
+  v_salary NUMBER;
+BEGIN
+  SELECT SALARY INTO v_salary FROM TEACHER WHERE TEACHER_ID = p_teacher_id;
+  RETURN v_salary;
+END;
+```
+
+### 5. Что такое локальные процедуры и функции?
+
+Локальные процедуры и функции — это процедуры и функции, определенные внутри другого PL/SQL-блока (например, анонимного блока или другой процедуры). Они недоступны вне этого блока.
+
+Пример локальной функции:
+```sql
+DECLARE
+  FUNCTION LocalFunction(p_val NUMBER) RETURN NUMBER IS
+  BEGIN
+    RETURN p_val * 2;
+  END;
+BEGIN
+  DBMS_OUTPUT.PUT_LINE(LocalFunction(5));
+END;
+/
+```
+
+### 6. Что такое параметрическая, позиционная и смешанная формы передачи параметров?
+
+- **Позиционная передача параметров** — значения параметров передаются в том порядке, в котором они указаны в объявлении процедуры/функции.
+  ```sql
+  PROCEDURE TestProc(p1 NUMBER, p2 VARCHAR2);
+  
+  BEGIN
+    TestProc(10, 'Test');  -- Позиционная передача
+  END;
+  ```
+
+- **Именованная передача параметров** — параметры передаются по имени, и порядок не имеет значения.
+  ```sql
+  BEGIN
+    TestProc(p2 => 'Test', p1 => 10);  -- Именованная передача
+  END;
+  ```
+
+- **Смешанная передача параметров** — комбинация позиционной и именованной передачи, однако позиционные параметры всегда должны быть переданы до именованных.
+  ```sql
+  BEGIN
+    TestProc(10, p2 => 'Test');  -- Смешанная передача
+  END;
+  ```
+
+### 7. Что значит «пакет сохраняет состояние переменных, объявленных в спецификации, на время сессии»?
+
+Когда переменные объявляются в спецификации пакета, они сохраняют свое состояние на протяжении всей сессии. Это означает, что переменные инициализируются один раз при первом обращении к пакету и сохраняют свои значения для последующих вызовов в той же сессии. После завершения сессии значение переменных сбрасывается.
+
+Пример:
+```sql
+CREATE OR REPLACE PACKAGE SessionState AS
+  v_counter NUMBER := 0;
+  PROCEDURE IncrementCounter;
+END SessionState;
+/
+
+CREATE OR REPLACE PACKAGE BODY SessionState AS
+  PROCEDURE IncrementCounter IS
+  BEGIN
+    v_counter := v_counter + 1;
+    DBMS_OUTPUT.PUT_LINE('Counter: ' || v_counter);
+  END;
+END SessionState;
+/
+
+-- В сессии:
+BEGIN
+  SessionState.IncrementCounter;  -- Counter: 1
+  SessionState.IncrementCounter;  -- Counter: 
+END;
+/
+```

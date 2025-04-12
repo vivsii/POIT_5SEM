@@ -1,0 +1,1 @@
+/usr/bin/clang -rdynamic CMakeFiles/OS03_06.dir/OS03_06.c.o -o OS03_06 

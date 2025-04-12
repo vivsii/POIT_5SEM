@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/OS06_06.dir/OS06_06.c.o -o OS06_06 

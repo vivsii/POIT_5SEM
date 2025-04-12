@@ -1,0 +1,14 @@
+C:\уник\os\lab05\OS05_03\bin\Debug\net8.0\OS05_03.exe
+C:\уник\os\lab05\OS05_03\bin\Debug\net8.0\OS05_03.deps.json
+C:\уник\os\lab05\OS05_03\bin\Debug\net8.0\OS05_03.runtimeconfig.json
+C:\уник\os\lab05\OS05_03\bin\Debug\net8.0\OS05_03.dll
+C:\уник\os\lab05\OS05_03\bin\Debug\net8.0\OS05_03.pdb
+C:\уник\os\lab05\OS05_03\obj\Debug\net8.0\OS05_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\уник\os\lab05\OS05_03\obj\Debug\net8.0\OS05_03.AssemblyInfoInputs.cache
+C:\уник\os\lab05\OS05_03\obj\Debug\net8.0\OS05_03.AssemblyInfo.cs
+C:\уник\os\lab05\OS05_03\obj\Debug\net8.0\OS05_03.csproj.CoreCompileInputs.cache
+C:\уник\os\lab05\OS05_03\obj\Debug\net8.0\OS05_03.dll
+C:\уник\os\lab05\OS05_03\obj\Debug\net8.0\refint\OS05_03.dll
+C:\уник\os\lab05\OS05_03\obj\Debug\net8.0\OS05_03.pdb
+C:\уник\os\lab05\OS05_03\obj\Debug\net8.0\OS05_03.genruntimeconfig.cache
+C:\уник\os\lab05\OS05_03\obj\Debug\net8.0\ref\OS05_03.dll

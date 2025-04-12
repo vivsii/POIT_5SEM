@@ -1,0 +1,28 @@
+D:\BSTU 5 sem\OS\labs\lab4\OS04_09\OS04_09\bin\Debug\net8.0\OS04_09.exe
+D:\BSTU 5 sem\OS\labs\lab4\OS04_09\OS04_09\bin\Debug\net8.0\OS04_09.deps.json
+D:\BSTU 5 sem\OS\labs\lab4\OS04_09\OS04_09\bin\Debug\net8.0\OS04_09.runtimeconfig.json
+D:\BSTU 5 sem\OS\labs\lab4\OS04_09\OS04_09\bin\Debug\net8.0\OS04_09.dll
+D:\BSTU 5 sem\OS\labs\lab4\OS04_09\OS04_09\bin\Debug\net8.0\OS04_09.pdb
+D:\BSTU 5 sem\OS\labs\lab4\OS04_09\OS04_09\obj\Debug\net8.0\OS04_09.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSTU 5 sem\OS\labs\lab4\OS04_09\OS04_09\obj\Debug\net8.0\OS04_09.AssemblyInfoInputs.cache
+D:\BSTU 5 sem\OS\labs\lab4\OS04_09\OS04_09\obj\Debug\net8.0\OS04_09.AssemblyInfo.cs
+D:\BSTU 5 sem\OS\labs\lab4\OS04_09\OS04_09\obj\Debug\net8.0\OS04_09.csproj.CoreCompileInputs.cache
+D:\BSTU 5 sem\OS\labs\lab4\OS04_09\OS04_09\obj\Debug\net8.0\OS04_09.dll
+D:\BSTU 5 sem\OS\labs\lab4\OS04_09\OS04_09\obj\Debug\net8.0\refint\OS04_09.dll
+D:\BSTU 5 sem\OS\labs\lab4\OS04_09\OS04_09\obj\Debug\net8.0\OS04_09.pdb
+D:\BSTU 5 sem\OS\labs\lab4\OS04_09\OS04_09\obj\Debug\net8.0\OS04_09.genruntimeconfig.cache
+D:\BSTU 5 sem\OS\labs\lab4\OS04_09\OS04_09\obj\Debug\net8.0\ref\OS04_09.dll
+C:\уник\os\lab04\OS04_09\OS04_09\bin\Debug\net8.0\OS04_09.exe
+C:\уник\os\lab04\OS04_09\OS04_09\bin\Debug\net8.0\OS04_09.deps.json
+C:\уник\os\lab04\OS04_09\OS04_09\bin\Debug\net8.0\OS04_09.runtimeconfig.json
+C:\уник\os\lab04\OS04_09\OS04_09\bin\Debug\net8.0\OS04_09.dll
+C:\уник\os\lab04\OS04_09\OS04_09\bin\Debug\net8.0\OS04_09.pdb
+C:\уник\os\lab04\OS04_09\OS04_09\obj\Debug\net8.0\OS04_09.GeneratedMSBuildEditorConfig.editorconfig
+C:\уник\os\lab04\OS04_09\OS04_09\obj\Debug\net8.0\OS04_09.AssemblyInfoInputs.cache
+C:\уник\os\lab04\OS04_09\OS04_09\obj\Debug\net8.0\OS04_09.AssemblyInfo.cs
+C:\уник\os\lab04\OS04_09\OS04_09\obj\Debug\net8.0\OS04_09.csproj.CoreCompileInputs.cache
+C:\уник\os\lab04\OS04_09\OS04_09\obj\Debug\net8.0\OS04_09.dll
+C:\уник\os\lab04\OS04_09\OS04_09\obj\Debug\net8.0\refint\OS04_09.dll
+C:\уник\os\lab04\OS04_09\OS04_09\obj\Debug\net8.0\OS04_09.pdb
+C:\уник\os\lab04\OS04_09\OS04_09\obj\Debug\net8.0\OS04_09.genruntimeconfig.cache
+C:\уник\os\lab04\OS04_09\OS04_09\obj\Debug\net8.0\ref\OS04_09.dll

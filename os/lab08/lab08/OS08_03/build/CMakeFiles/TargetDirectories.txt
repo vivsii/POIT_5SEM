@@ -1,0 +1,3 @@
+/mnt/c/уник/os/lab08/lab08/OS08_03/build/CMakeFiles/OS08_03.dir
+/mnt/c/уник/os/lab08/lab08/OS08_03/build/CMakeFiles/edit_cache.dir
+/mnt/c/уник/os/lab08/lab08/OS08_03/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+
+set(CMAKE_C_STANDARD 11)
+
+add_executable(OS03_06 OS03_06.c)
+add_executable(OS03_05_1 OS03_05_1.c)

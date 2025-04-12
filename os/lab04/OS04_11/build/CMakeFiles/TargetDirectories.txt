@@ -1,0 +1,3 @@
+/mnt/d/BSTU 5 sem/OS/labs/lab4/OS04_11/build/CMakeFiles/OS04_11.dir
+/mnt/d/BSTU 5 sem/OS/labs/lab4/OS04_11/build/CMakeFiles/edit_cache.dir
+/mnt/d/BSTU 5 sem/OS/labs/lab4/OS04_11/build/CMakeFiles/rebuild_cache.dir

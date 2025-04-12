@@ -1,0 +1,3 @@
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+
+add_executable(OS03_04 OS03_04.c)

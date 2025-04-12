@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/mnt/c/уник/os/lab03/lab03_linux/OS03_06/build",
+  "command": "/usr/bin/clang   -std=gnu11 -o CMakeFiles/OS03_06.dir/OS03_06.c.o -c /mnt/c/уник/os/lab03/lab03_linux/OS03_06/OS03_06.c",
+  "file": "/mnt/c/уник/os/lab03/lab03_linux/OS03_06/OS03_06.c"
+},
+{
+  "directory": "/mnt/c/уник/os/lab03/lab03_linux/OS03_06/build",
+  "command": "/usr/bin/clang   -std=gnu11 -o CMakeFiles/OS03_05_1.dir/OS03_05_1.c.o -c /mnt/c/уник/os/lab03/lab03_linux/OS03_06/OS03_05_1.c",
+  "file": "/mnt/c/уник/os/lab03/lab03_linux/OS03_06/OS03_05_1.c"
+}
+]

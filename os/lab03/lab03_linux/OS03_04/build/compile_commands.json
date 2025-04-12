@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/mnt/c/уник/os/lab03/lab03_linux/OS03_04/build",
+  "command": "/usr/bin/clang    -o CMakeFiles/OS03_04.dir/OS03_04.c.o -c /mnt/c/уник/os/lab03/lab03_linux/OS03_04/OS03_04.c",
+  "file": "/mnt/c/уник/os/lab03/lab03_linux/OS03_04/OS03_04.c"
+}
+]

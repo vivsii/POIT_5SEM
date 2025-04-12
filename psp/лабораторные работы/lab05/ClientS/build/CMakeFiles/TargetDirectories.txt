@@ -1,0 +1,3 @@
+C:/уник/psp/лабораторные работы/lab05/ClientS/build/CMakeFiles/ClientS.dir
+C:/уник/psp/лабораторные работы/lab05/ClientS/build/CMakeFiles/ALL_BUILD.dir
+C:/уник/psp/лабораторные работы/lab05/ClientS/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/уник/psp/лабораторные работы/lab07/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o Server\\CMakeFiles\\ServerMS.dir\\Server.cpp.obj -c \"C:\\уник\\psp\\лабораторные работы\\lab07\\Server\\Server.cpp\"",
+  "file": "C:\\уник\\psp\\лабораторные работы\\lab07\\Server\\Server.cpp",
+  "output": "Server\\CMakeFiles\\ServerMS.dir\\Server.cpp.obj"
+},
+{
+  "directory": "C:/уник/psp/лабораторные работы/lab07/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o Server\\CMakeFiles\\ServerMSLastTask.dir\\LastServer.cpp.obj -c \"C:\\уник\\psp\\лабораторные работы\\lab07\\Server\\LastServer.cpp\"",
+  "file": "C:\\уник\\psp\\лабораторные работы\\lab07\\Server\\LastServer.cpp",
+  "output": "Server\\CMakeFiles\\ServerMSLastTask.dir\\LastServer.cpp.obj"
+},
+{
+  "directory": "C:/уник/psp/лабораторные работы/lab07/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o Client\\CMakeFiles\\ClientMS.dir\\Client.cpp.obj -c \"C:\\уник\\psp\\лабораторные работы\\lab07\\Client\\Client.cpp\"",
+  "file": "C:\\уник\\psp\\лабораторные работы\\lab07\\Client\\Client.cpp",
+  "output": "Client\\CMakeFiles\\ClientMS.dir\\Client.cpp.obj"
+},
+{
+  "directory": "C:/уник/psp/лабораторные работы/lab07/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o Client\\CMakeFiles\\ClientMSAll.dir\\ClientAll.cpp.obj -c \"C:\\уник\\psp\\лабораторные работы\\lab07\\Client\\ClientAll.cpp\"",
+  "file": "C:\\уник\\psp\\лабораторные работы\\lab07\\Client\\ClientAll.cpp",
+  "output": "Client\\CMakeFiles\\ClientMSAll.dir\\ClientAll.cpp.obj"
+},
+{
+  "directory": "C:/уник/psp/лабораторные работы/lab07/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o Client\\CMakeFiles\\ClientMSLastTask.dir\\LastClient.cpp.obj -c \"C:\\уник\\psp\\лабораторные работы\\lab07\\Client\\LastClient.cpp\"",
+  "file": "C:\\уник\\psp\\лабораторные работы\\lab07\\Client\\LastClient.cpp",
+  "output": "Client\\CMakeFiles\\ClientMSLastTask.dir\\LastClient.cpp.obj"
+}
+]

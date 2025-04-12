@@ -1,0 +1,19 @@
+﻿  ServerB.cpp
+C:\уник\psp\лабораторные работы\lab05\ServerB\ServerB\ServerB.cpp(151,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\уник\psp\лабораторные работы\lab05\ServerB\ServerB\ServerB.cpp(178,43): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\уник\psp\лабораторные работы\lab05\ServerB\ServerB\ServerB.cpp(240,44): warning C4244: аргумент: преобразование "SOCKET" в "short", возможна потеря данных
+C:\уник\psp\лабораторные работы\lab05\ServerB\ServerB\ServerB.cpp(247,45): warning C4244: аргумент: преобразование "SOCKET" в "short", возможна потеря данных
+  server.cpp
+C:\уник\psp\лабораторные работы\lab05\ServerB\ServerB\server.cpp(158,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\уник\psp\лабораторные работы\lab05\ServerB\ServerB\server.cpp(176,47): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\уник\psp\лабораторные работы\lab05\ServerB\ServerB\server.cpp(168,9): warning C4101: lbuf: неиспользованная локальная переменная
+C:\уник\psp\лабораторные работы\lab05\ServerB\ServerB\server.cpp(251,44): warning C4244: аргумент: преобразование "SOCKET" в "short", возможна потеря данных
+C:\уник\psp\лабораторные работы\lab05\ServerB\ServerB\server.cpp(258,45): warning C4244: аргумент: преобразование "SOCKET" в "short", возможна потеря данных
+  Создание кода...
+ServerB.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl GetErrorMsgText(int)" (?GetErrorMsgText@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z) уже определен в server.obj
+ServerB.obj : error LNK2005: "bool __cdecl GetRequestFromClient(char *,short,struct sockaddr *,int *)" (?GetRequestFromClient@@YA_NPEADFPEAUsockaddr@@PEAH@Z) уже определен в server.obj
+ServerB.obj : error LNK2005: "bool __cdecl PutAnswerToClient(char *,short,struct sockaddr *,int *)" (?PutAnswerToClient@@YA_NPEADFPEAUsockaddr@@PEAH@Z) уже определен в server.obj
+ServerB.obj : error LNK2005: "class std::tuple<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int> __cdecl SetErrorMsgText(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int)" (?SetErrorMsgText@@YA?AV?$tuple@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@std@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@H@Z) уже определен в server.obj
+ServerB.obj : error LNK2005: main уже определен в server.obj
+ServerB.obj : error LNK2005: "int countServers" (?countServers@@3HA) уже определен в server.obj
+C:\уник\psp\лабораторные работы\lab05\ServerB\x64\Debug\ServerB.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более

@@ -1,0 +1,7 @@
+﻿  ServerB.cpp
+C:\уник\psp\лабораторные работы\lab04\ServerB\ServerB\ServerB.cpp(150,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\уник\psp\лабораторные работы\lab04\ServerB\ServerB\ServerB.cpp(168,47): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\уник\psp\лабораторные работы\lab04\ServerB\ServerB\ServerB.cpp(160,9): warning C4101: lbuf: неиспользованная локальная переменная
+C:\уник\psp\лабораторные работы\lab04\ServerB\ServerB\ServerB.cpp(243,44): warning C4244: аргумент: преобразование "SOCKET" в "short", возможна потеря данных
+C:\уник\psp\лабораторные работы\lab04\ServerB\ServerB\ServerB.cpp(250,45): warning C4244: аргумент: преобразование "SOCKET" в "short", возможна потеря данных
+  ServerB.vcxproj -> C:\уник\psp\лабораторные работы\lab04\ServerB\x64\Debug\ServerB.exe

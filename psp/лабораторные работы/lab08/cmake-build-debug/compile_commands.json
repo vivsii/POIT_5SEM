@@ -1,0 +1,56 @@
+[
+{
+  "directory": "C:/уник/psp/лабораторные работы/lab08/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o ClientT\\CMakeFiles\\ClientT.dir\\ClientT.cpp.obj -c \"C:\\уник\\psp\\лабораторные работы\\lab08\\ClientT\\ClientT.cpp\"",
+  "file": "C:\\уник\\psp\\лабораторные работы\\lab08\\ClientT\\ClientT.cpp",
+  "output": "ClientT\\CMakeFiles\\ClientT.dir\\ClientT.cpp.obj"
+},
+{
+  "directory": "C:/уник/psp/лабораторные работы/lab08/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o ClientT\\CMakeFiles\\ClientT.dir\\Errors.cpp.obj -c \"C:\\уник\\psp\\лабораторные работы\\lab08\\ClientT\\Errors.cpp\"",
+  "file": "C:\\уник\\psp\\лабораторные работы\\lab08\\ClientT\\Errors.cpp",
+  "output": "ClientT\\CMakeFiles\\ClientT.dir\\Errors.cpp.obj"
+},
+{
+  "directory": "C:/уник/psp/лабораторные работы/lab08/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o ClientT\\CMakeFiles\\ClientT2.dir\\ClientT.cpp.obj -c \"C:\\уник\\psp\\лабораторные работы\\lab08\\ClientT\\ClientT.cpp\"",
+  "file": "C:\\уник\\psp\\лабораторные работы\\lab08\\ClientT\\ClientT.cpp",
+  "output": "ClientT\\CMakeFiles\\ClientT2.dir\\ClientT.cpp.obj"
+},
+{
+  "directory": "C:/уник/psp/лабораторные работы/lab08/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o ClientT\\CMakeFiles\\ClientT2.dir\\Errors.cpp.obj -c \"C:\\уник\\psp\\лабораторные работы\\lab08\\ClientT\\Errors.cpp\"",
+  "file": "C:\\уник\\psp\\лабораторные работы\\lab08\\ClientT\\Errors.cpp",
+  "output": "ClientT\\CMakeFiles\\ClientT2.dir\\Errors.cpp.obj"
+},
+{
+  "directory": "C:/уник/psp/лабораторные работы/lab08/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o ClientB\\CMakeFiles\\ClientB.dir\\ClientB.cpp.obj -c \"C:\\уник\\psp\\лабораторные работы\\lab08\\ClientB\\ClientB.cpp\"",
+  "file": "C:\\уник\\psp\\лабораторные работы\\lab08\\ClientB\\ClientB.cpp",
+  "output": "ClientB\\CMakeFiles\\ClientB.dir\\ClientB.cpp.obj"
+},
+{
+  "directory": "C:/уник/psp/лабораторные работы/lab08/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o RConsole\\CMakeFiles\\RConsole.dir\\RConsole.cpp.obj -c \"C:\\уник\\psp\\лабораторные работы\\lab08\\RConsole\\RConsole.cpp\"",
+  "file": "C:\\уник\\psp\\лабораторные работы\\lab08\\RConsole\\RConsole.cpp",
+  "output": "RConsole\\CMakeFiles\\RConsole.dir\\RConsole.cpp.obj"
+},
+{
+  "directory": "C:/уник/psp/лабораторные работы/lab08/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o RConsole\\CMakeFiles\\RConsole.dir\\Errors.cpp.obj -c \"C:\\уник\\psp\\лабораторные работы\\lab08\\RConsole\\Errors.cpp\"",
+  "file": "C:\\уник\\psp\\лабораторные работы\\lab08\\RConsole\\Errors.cpp",
+  "output": "RConsole\\CMakeFiles\\RConsole.dir\\Errors.cpp.obj"
+},
+{
+  "directory": "C:/уник/psp/лабораторные работы/lab08/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o ConcurrentServer\\CMakeFiles\\ConcurrentServer.dir\\ConcurrentServer.cpp.obj -c \"C:\\уник\\psp\\лабораторные работы\\lab08\\ConcurrentServer\\ConcurrentServer.cpp\"",
+  "file": "C:\\уник\\psp\\лабораторные работы\\lab08\\ConcurrentServer\\ConcurrentServer.cpp",
+  "output": "ConcurrentServer\\CMakeFiles\\ConcurrentServer.dir\\ConcurrentServer.cpp.obj"
+},
+{
+  "directory": "C:/уник/psp/лабораторные работы/lab08/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o ConcurrentServer\\CMakeFiles\\ConcurrentServer.dir\\Errors.cpp.obj -c \"C:\\уник\\psp\\лабораторные работы\\lab08\\ConcurrentServer\\Errors.cpp\"",
+  "file": "C:\\уник\\psp\\лабораторные работы\\lab08\\ConcurrentServer\\Errors.cpp",
+  "output": "ConcurrentServer\\CMakeFiles\\ConcurrentServer.dir\\Errors.cpp.obj"
+}
+]

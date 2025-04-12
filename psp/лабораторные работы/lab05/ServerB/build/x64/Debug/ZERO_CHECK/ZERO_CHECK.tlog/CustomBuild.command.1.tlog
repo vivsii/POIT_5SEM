@@ -1,0 +1,10 @@
+^C:\УНИК\PSP\ЛАБОРАТОРНЫЕ РАБОТЫ\LAB05\SERVERB\BUILD\CMAKEFILES\ED269666B42DBAEF45A85C317224D922\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/уник/psp/лабораторные работы/lab05/ServerB" "-BC:/уник/psp/лабораторные работы/lab05/ServerB/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/уник/psp/лабораторные работы/lab05/ServerB/build/Project.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

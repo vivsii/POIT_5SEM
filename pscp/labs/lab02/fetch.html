@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Данные студента</h1>
+    <p id="student-name">Загрузка данных...</p>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            fetch('/api/name')
+                .then(response => response.text())      
+                .then(data => {
+                    document.getElementById('student-name').textContent = data;
+                })
+                .catch(error => {
+                    console.error('Ошибка:', error);
+                    document.getElementById('student-name').textContent = 'Ошибка загрузки данных';
+                });
+        });
+    </script>
+</body>
+</html>

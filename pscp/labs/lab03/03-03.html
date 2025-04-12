@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Факториалы от 1 до 20</title>
+    <script>
+        async function fetchFactorials() {
+            const startTime = Date.now();
+            const results = [];
+
+            for (let x = 1; x <= 20; x++) {
+                const response = await fetch(`/fact?k=${x}`);
+                const data = await response.json();
+                const elapsedTime = Date.now() - startTime;
+
+                const result = `${elapsedTime}-${x}/${data.fact}`;
+                results.push(result);
+                document.body.innerHTML += `<p>${x}. Результат: ${result}</p>`;
+            }
+
+            const totalTime = Date.now() - startTime;
+            document.body.innerHTML += `<p>Общее время: ${totalTime} мс</p>`;
+        }
+
+        window.onload = fetchFactorials;
+    </script>
+</head>
+<body>
+    <h1>Факториалы от 1 до 20</h1>
+</body>
+</html>

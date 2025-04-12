@@ -1,0 +1,12 @@
+{
+  "name": "m0603-viv",
+  "version": "1.0.0",
+  "description": "\\\\",
+  "main": "m0603.js",
+  "devDependencies": {},
+  "scripts": {  
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vivsi",
+  "license": "ISC"
+}

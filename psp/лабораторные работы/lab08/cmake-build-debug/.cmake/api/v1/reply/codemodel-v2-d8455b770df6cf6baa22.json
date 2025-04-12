@@ -1,0 +1,199 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "ClientT",
+					"jsonFile" : "directory-ClientT-Debug-120e4f9f4036500df8af.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "ClientT",
+					"targetIndexes" : 
+					[
+						1,
+						2
+					]
+				},
+				{
+					"build" : "ClientB",
+					"jsonFile" : "directory-ClientB-Debug-3d067a536b94ddc1c92b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "ClientB",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "RConsole",
+					"jsonFile" : "directory-RConsole-Debug-ce7debe9e5d4971da435.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "RConsole",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "ConcurrentServer",
+					"jsonFile" : "directory-ConcurrentServer-Debug-80e25255bbbf55850dc7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "ConcurrentServer",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "ServiceLibrary",
+					"jsonFile" : "directory-ServiceLibrary-Debug-92491cb7d474e334e1fd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "ServiceLibrary",
+					"targetIndexes" : 
+					[
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					],
+					"name" : "lab08",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "ServiceLibrary",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "ClientB::@ef90fdf549361cf1f0a5",
+					"jsonFile" : "target-ClientB-Debug-59f38c432261cd353687.json",
+					"name" : "ClientB",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ClientT::@6e3426b4933cdbab93b9",
+					"jsonFile" : "target-ClientT-Debug-026182170dce0c6b8b5e.json",
+					"name" : "ClientT",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ClientT2::@6e3426b4933cdbab93b9",
+					"jsonFile" : "target-ClientT2-Debug-11587d8dcc4c10b153dc.json",
+					"name" : "ClientT2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "ConcurrentServer::@c3e98edee48124b6385d",
+					"jsonFile" : "target-ConcurrentServer-Debug-c59990414132a401a125.json",
+					"name" : "ConcurrentServer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "RConsole::@0e554dd0d4b41e0f5672",
+					"jsonFile" : "target-RConsole-Debug-bd624f593a2982623057.json",
+					"name" : "RConsole",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "ServiceLibrary::@d41b0e88467ecd66f7c1",
+					"jsonFile" : "target-ServiceLibrary-Debug-7081393aa0aaaaa4e5af.json",
+					"name" : "ServiceLibrary",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/\u0443\u043d\u0438\u043a/psp/\u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u044b\u0435 \u0440\u0430\u0431\u043e\u0442\u044b/lab08/cmake-build-debug",
+		"source" : "C:/\u0443\u043d\u0438\u043a/psp/\u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u044b\u0435 \u0440\u0430\u0431\u043e\u0442\u044b/lab08"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

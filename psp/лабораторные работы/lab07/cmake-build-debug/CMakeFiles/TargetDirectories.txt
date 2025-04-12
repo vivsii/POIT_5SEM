@@ -1,0 +1,11 @@
+C:/уник/psp/лабораторные работы/lab07/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/уник/psp/лабораторные работы/lab07/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/уник/psp/лабораторные работы/lab07/cmake-build-debug/Server/CMakeFiles/ServerMS.dir
+C:/уник/psp/лабораторные работы/lab07/cmake-build-debug/Server/CMakeFiles/ServerMSLastTask.dir
+C:/уник/psp/лабораторные работы/lab07/cmake-build-debug/Server/CMakeFiles/edit_cache.dir
+C:/уник/psp/лабораторные работы/lab07/cmake-build-debug/Server/CMakeFiles/rebuild_cache.dir
+C:/уник/psp/лабораторные работы/lab07/cmake-build-debug/Client/CMakeFiles/ClientMS.dir
+C:/уник/psp/лабораторные работы/lab07/cmake-build-debug/Client/CMakeFiles/ClientMSAll.dir
+C:/уник/psp/лабораторные работы/lab07/cmake-build-debug/Client/CMakeFiles/ClientMSLastTask.dir
+C:/уник/psp/лабораторные работы/lab07/cmake-build-debug/Client/CMakeFiles/edit_cache.dir
+C:/уник/psp/лабораторные работы/lab07/cmake-build-debug/Client/CMakeFiles/rebuild_cache.dir

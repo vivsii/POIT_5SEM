@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "nodemailer": "^6.9.16",
+    "sendmail": "^1.6.1"
+  },
+  "name": "m0603",
+  "version": "1.0.2",
+  "description": "\\\\",
+  "main": "m0603",
+  "devDependencies": {},
+  "scripts": {  
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vivsi",
+  "license": "ISC"
+}

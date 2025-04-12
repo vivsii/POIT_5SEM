@@ -1,0 +1,7 @@
+﻿  Errors.cpp
+  ServiceLibrary.cpp
+C:\уник\psp\лабораторные работы\laba_8-10\ServiceLibrary\PrototypeService.h(157,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "ServiceLibrary.cpp")
+  
+  Создание кода...
+LINK : fatal error LNK1104: не удается открыть файл "C:\уник\psp\лабораторные работы\laba_8-10\x64\Debug\ServiceLibrary.dll"

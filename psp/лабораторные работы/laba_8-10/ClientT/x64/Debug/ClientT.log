@@ -1,0 +1,6 @@
+﻿  ClientT.cpp
+C:\уник\psp\лабораторные работы\laba_8-10\ClientT\ClientT.cpp(75,66): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\уник\psp\лабораторные работы\laba_8-10\ClientT\ClientT.cpp(104,74): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Errors.cpp
+  Создание кода...
+  ClientT.vcxproj -> C:\уник\psp\лабораторные работы\laba_8-10\x64\Debug\ClientT.exe

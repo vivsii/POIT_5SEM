@@ -1,0 +1,10 @@
+^C:\УНИК\PSP\ЛАБОРАТОРНЫЕ РАБОТЫ\LAB05\SERVERB\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/уник/psp/лабораторные работы/lab05/ServerB" "-BC:/уник/psp/лабораторные работы/lab05/ServerB/build" --check-stamp-file "C:/уник/psp/лабораторные работы/lab05/ServerB/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

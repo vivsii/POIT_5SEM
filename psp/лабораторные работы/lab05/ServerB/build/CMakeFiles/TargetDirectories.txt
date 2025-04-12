@@ -1,0 +1,4 @@
+C:/уник/psp/лабораторные работы/lab05/ServerB/build/CMakeFiles/ServerB.dir
+C:/уник/psp/лабораторные работы/lab05/ServerB/build/CMakeFiles/server.dir
+C:/уник/psp/лабораторные работы/lab05/ServerB/build/CMakeFiles/ALL_BUILD.dir
+C:/уник/psp/лабораторные работы/lab05/ServerB/build/CMakeFiles/ZERO_CHECK.dir

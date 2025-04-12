@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\уник\psp\лабораторные работы\lab05\ServerB\ServerB.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\уник\psp\лабораторные работы\lab05\ServerB\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{591D70A1-5883-3CFE-BCAC-891DCEDE6D31}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

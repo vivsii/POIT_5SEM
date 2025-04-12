@@ -1,0 +1,3 @@
+C:/уник/system_programming/lab09/Lab9/Service09/build/CMakeFiles/DirectoryMonitorService.dir
+C:/уник/system_programming/lab09/Lab9/Service09/build/CMakeFiles/ALL_BUILD.dir
+C:/уник/system_programming/lab09/Lab9/Service09/build/CMakeFiles/ZERO_CHECK.dir

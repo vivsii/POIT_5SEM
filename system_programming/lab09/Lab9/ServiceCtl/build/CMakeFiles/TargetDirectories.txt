@@ -1,0 +1,3 @@
+D:/BSTU 5 sem/SP/LABA9/Lab9/ServiceCtl/build/CMakeFiles/ServiceCtl.dir
+D:/BSTU 5 sem/SP/LABA9/Lab9/ServiceCtl/build/CMakeFiles/ALL_BUILD.dir
+D:/BSTU 5 sem/SP/LABA9/Lab9/ServiceCtl/build/CMakeFiles/ZERO_CHECK.dir

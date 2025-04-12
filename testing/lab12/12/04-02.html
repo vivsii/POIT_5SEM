@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API Client</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        form {
+            margin-bottom: 20px;
+        }
+        input, button {
+            padding: 10px;
+            margin-top: 5px;
+            width: 100%;
+            max-width: 300px;
+        }
+    </style>
+</head>
+<body>
+    <h2>GET Запрос</h2>
+    <form id="getForm">
+        <button type="submit">Отправить GET запрос</button>
+    </form>
+    <pre id="getResult"></pre>
+
+    <h2>POST Запрос</h2>
+    <form id="postForm">
+        <input type="text" id="postName" placeholder="Имя" required>
+        <input type="date" id="postBday" placeholder="Дата рождения" required>
+        <button type="submit">Отправить POST запрос</button>
+    </form>
+    <pre id="postResult"></pre>
+
+    <h2>PUT Запрос</h2>
+    <form id="putForm">
+        <input type="number" id="putId" placeholder="ID" required>
+        <input type="text" id="putName" placeholder="Имя" required>
+        <input type="date" id="putBday" placeholder="Дата рождения" required>
+        <button type="submit">Отправить PUT запрос</button>
+    </form>
+    <pre id="putResult"></pre>
+
+    <h2>DELETE Запрос</h2>
+    <form id="deleteForm">
+        <input type="number" id="deleteId" placeholder="ID" required>
+        <button type="submit">Отправить DELETE запрос</button>
+    </form>
+    <pre id="deleteResult"></pre>
+
+    <script>
+        document.getElementById('getForm').addEventListener('submit', function (e) {
+            e.preventDefault();
+            fetch('http://localhost:3000/api/db')
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById('getResult').textContent = JSON.stringify(data, null, 2);
+                })
+                .catch(error => {
+                    document.getElementById('getResult').textContent = 'Ошибка: ' + error;
+                });
+        });
+
+            document.getElementById('postForm').addEventListener('submit', function (e) {
+            e.preventDefault();
+            const name = document.getElementById('postName').value;
+            const bday = document.getElementById('postBday').value;
+            const data = { name, bday };
+
+            fetch('http://localhost:3000/api/db', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(data)
+            })
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById('postResult').textContent = JSON.stringify(data, null, 2);
+                })
+                .catch(error => {
+                    document.getElementById('postResult').textContent = 'Ошибка: ' + error;
+                });
+        });
+
+        document.getElementById('putForm').addEventListener('submit', function (e) {
+            e.preventDefault();
+            const id = document.getElementById('putId').value;
+            const name = document.getElementById('putName').value;
+            const bday = document.getElementById('putBday').value;
+            const data = { id, name, bday };
+
+            fetch(`http://localhost:3000/api/db?id=${id}`, {
+                method: 'PUT',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(data)
+            })
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById('putResult').textContent = JSON.stringify(data, null, 2);
+                })
+                .catch(error => {
+                    document.getElementById('putResult').textContent = 'Ошибка: ' + error;
+                });
+        });
+
+        document.getElementById('deleteForm').addEventListener('submit', function (e) {
+            e.preventDefault();
+            const id = document.getElementById('deleteId').value;
+
+            fetch(`http://localhost:3000/api/db?id=${id}`, {
+                method: 'DELETE'
+            })
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    document.getElementById('deleteResult').textContent = JSON.stringify(data, null, 2);
+                })
+                .catch(error => {
+                    document.getElementById('deleteResult').textContent = 'Ошибка: ' + error;
+                });
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,6 @@
+# ninja log v6
+39	1059	7564234164553114	Mapping/CMakeFiles/Mapping.dir/Mapping.c.obj	770fafeb631f7b54
+1060	1177	7564234174756689	Mapping/libMapping.a	3723c97167c238b7
+15	815	7558225068923267	Lab-08a/CMakeFiles/Lab_08a.dir/Lab-08a.c.obj	946e7e34347f0fe0
+1178	1468	7564234175936688	Lab-08a/Lab_08a.exe	2e567f26931cde0b
+4	1788	7564673634253897	Mappingd/CMakeFiles/Mappingd.dir/Mappingd.c.obj	71b492c17d21d59f

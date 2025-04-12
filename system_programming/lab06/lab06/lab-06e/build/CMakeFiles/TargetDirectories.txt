@@ -1,0 +1,3 @@
+/mnt/c/уник/system_programming/lab06/lab06/lab-06e/build/CMakeFiles/lab-06e.dir
+/mnt/c/уник/system_programming/lab06/lab06/lab-06e/build/CMakeFiles/edit_cache.dir
+/mnt/c/уник/system_programming/lab06/lab06/lab-06e/build/CMakeFiles/rebuild_cache.dir

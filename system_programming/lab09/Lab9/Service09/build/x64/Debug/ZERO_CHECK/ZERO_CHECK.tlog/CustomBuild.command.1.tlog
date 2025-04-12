@@ -1,0 +1,10 @@
+^C:\УНИК\SYSTEM_PROGRAMMING\LAB09\LAB9\SERVICE09\BUILD\CMAKEFILES\F32478371564C2FD9061E1666F5CFFFD\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/уник/system_programming/lab09/Lab9/Service09 -BC:/уник/system_programming/lab09/Lab9/Service09/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/уник/system_programming/lab09/Lab9/Service09/build/DirectoryMonitorService.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

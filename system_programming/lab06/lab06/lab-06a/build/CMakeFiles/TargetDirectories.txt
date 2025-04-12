@@ -1,0 +1,3 @@
+C:/уник/system_programming/lab06/lab06/lab-06a/build/CMakeFiles/lab-06a.dir
+C:/уник/system_programming/lab06/lab06/lab-06a/build/CMakeFiles/ALL_BUILD.dir
+C:/уник/system_programming/lab06/lab06/lab-06a/build/CMakeFiles/ZERO_CHECK.dir

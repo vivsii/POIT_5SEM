@@ -1,0 +1,4 @@
+/mnt/c/уник/system_programming/lab02/linux/lab02/build/CMakeFiles/lab02_x.dir
+/mnt/c/уник/system_programming/lab02/linux/lab02/build/CMakeFiles/lab02_e.dir
+/mnt/c/уник/system_programming/lab02/linux/lab02/build/CMakeFiles/edit_cache.dir
+/mnt/c/уник/system_programming/lab02/linux/lab02/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,14 @@
+D:/ClionProjects/SP/Lab08/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionProjects/SP/Lab08/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/ClionProjects/SP/Lab08/cmake-build-debug/Mapping/CMakeFiles/Mapping.dir
+D:/ClionProjects/SP/Lab08/cmake-build-debug/Mapping/CMakeFiles/edit_cache.dir
+D:/ClionProjects/SP/Lab08/cmake-build-debug/Mapping/CMakeFiles/rebuild_cache.dir
+D:/ClionProjects/SP/Lab08/cmake-build-debug/Lab-08a/CMakeFiles/Lab_08a.dir
+D:/ClionProjects/SP/Lab08/cmake-build-debug/Lab-08a/CMakeFiles/edit_cache.dir
+D:/ClionProjects/SP/Lab08/cmake-build-debug/Lab-08a/CMakeFiles/rebuild_cache.dir
+D:/ClionProjects/SP/Lab08/cmake-build-debug/Mappingd/CMakeFiles/Mappingd.dir
+D:/ClionProjects/SP/Lab08/cmake-build-debug/Mappingd/CMakeFiles/edit_cache.dir
+D:/ClionProjects/SP/Lab08/cmake-build-debug/Mappingd/CMakeFiles/rebuild_cache.dir
+D:/ClionProjects/SP/Lab08/cmake-build-debug/Mappingd-2/CMakeFiles/Mappingd-2.dir
+D:/ClionProjects/SP/Lab08/cmake-build-debug/Mappingd-2/CMakeFiles/edit_cache.dir
+D:/ClionProjects/SP/Lab08/cmake-build-debug/Mappingd-2/CMakeFiles/rebuild_cache.dir

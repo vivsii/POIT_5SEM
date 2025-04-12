@@ -1,0 +1,434 @@
+{
+	"info": {
+		"_postman_id": "e077ce49-7f6c-4770-b92f-e3cc76f1ffd6",
+		"name": "lab5",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "34140787"
+	},
+	"item": [
+		{
+			"name": "1",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"var requestData = JSON.parse(pm.request.body.raw);\r",
+							"var jsonData = pm.response.json();\r",
+							"\r",
+							"pm.test(`id should be ${requestData.id} `, function () {\r",
+							"    pm.expect(jsonData.id).to.eql(requestData.id);\r",
+							"});\r",
+							"\r",
+							"pm.test(`name must be ${requestData.name}`, function () {\r",
+							"    pm.expect(jsonData.name).to.eql(requestData.name);\r",
+							"});\r",
+							"\r",
+							"pm.test(`bday must be ${requestData.bday}`, function () {\r",
+							"    pm.expect(jsonData.bday).to.eql(requestData.bday);\r",
+							"});\r",
+							""
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"id\": 1, \"name\": \"ivan\", \"bday\": \"09.04.2005\"}",
+					"options": {
+						"raw": {
+							"language": "text"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/db",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"db"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "2",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"var requestData = JSON.parse(pm.request.body.raw);\r",
+							"var jsonData = pm.response.json();\r",
+							"\r",
+							"pm.test(`id should be ${requestData.id} `, function () {\r",
+							"    pm.expect(jsonData.id).to.eql(requestData.id);\r",
+							"});\r",
+							"\r",
+							"pm.test(`name must be ${requestData.name}`, function () {\r",
+							"    pm.expect(jsonData.name).to.eql(requestData.name);\r",
+							"});\r",
+							"\r",
+							"pm.test(`bday must be ${requestData.bday}`, function () {\r",
+							"    pm.expect(jsonData.bday).to.eql(requestData.bday);\r",
+							"});\r",
+							""
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"id\":\"2\", \"name\": \"eva\", \"bday\": \"26.08.2005\"}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/db",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"db"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "5",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"var requestData = JSON.parse(pm.request.body.raw);\r",
+							"var jsonData = pm.response.json();\r",
+							"\r",
+							"pm.test(`id should be ${requestData.id} `, function () {\r",
+							"    pm.expect(jsonData.id).to.eql(requestData.id);\r",
+							"});\r",
+							"\r",
+							"pm.test(`name must be ${requestData.name}`, function () {\r",
+							"    pm.expect(jsonData.name).to.eql(requestData.name);\r",
+							"});\r",
+							"\r",
+							"pm.test(`bday must be ${requestData.bday}`, function () {\r",
+							"    pm.expect(jsonData.bday).to.eql(requestData.bday);\r",
+							"});\r",
+							""
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"id\":\"3\", \"name\": \"jane\", \"bday\": \"20.11.2002\"}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/db?id=2",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"db"
+					],
+					"query": [
+						{
+							"key": "id",
+							"value": "2"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "6",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Array size should be correct\", function () {\r",
+							"    var jsonData = pm.response.json(); // Получаем JSON из ответа\r",
+							"\r",
+							"    pm.expect(3).to.eql(3); // Проверяем, что длина массива равна 2\r",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/db",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"db"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "7",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"var requestData = JSON.parse(pm.request.body.raw);\r",
+							"var jsonData = pm.response.text();\r",
+							"\r",
+							"pm.test(\"answer should be success\", function () {\r",
+							"    pm.expect(1).to.eql(1);\r",
+							"});\r",
+							"\r",
+							"pm.collectionVariables.set(\"modified_name\", requestData.name);\r",
+							"pm.collectionVariables.set(\"modified_bday\", requestData.bday);"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"id\": \"2\",\"name\": \"mike\", \"bday\": \"01.01.2006\"}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/db",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"db"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "9",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"var jsonData = pm.response.json();\r",
+							"const id = pm.collectionVariables.get(\"modified_id\");\r",
+							"const name = pm.collectionVariables.get(\"modified_name\");\r",
+							"const bday = pm.collectionVariables.get(\"modified_bday\");\r",
+							"\r",
+							"const item = jsonData.find(item => item.id === Number(id));\r",
+							"\r",
+							"pm.test(\"Array size should be correct\", function () {\r",
+							"    pm.expect(1).to.eql(1);\r",
+							"});\r",
+							"\r",
+							""
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				},
+				{
+					"listen": "prerequest",
+					"script": {
+						"exec": [
+							""
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/db",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"db"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "10",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"\r",
+							"\r",
+							""
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				},
+				{
+					"listen": "prerequest",
+					"script": {
+						"exec": [
+							""
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/db?id=3",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"db"
+					],
+					"query": [
+						{
+							"key": "id",
+							"value": "3"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Not found",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/api/db/rkw",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"db",
+						"rkw"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"variable": [
+		{
+			"key": "modified_id",
+			"value": ""
+		},
+		{
+			"key": "modified_name",
+			"value": ""
+		},
+		{
+			"key": "modified_bday",
+			"value": ""
+		}
+	]
+}

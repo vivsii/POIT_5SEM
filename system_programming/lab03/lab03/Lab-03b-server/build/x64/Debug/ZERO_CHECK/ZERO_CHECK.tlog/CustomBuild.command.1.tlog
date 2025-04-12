@@ -1,0 +1,10 @@
+^C:\УНИК\SYSTEM_PROGRAMMING\LAB03\LAB03\LAB-03B-SERVER\BUILD\CMAKEFILES\BDB724D2086AC5D6003825D724F52FA2\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/уник/system_programming/lab03/lab03/Lab-03b-server -BC:/уник/system_programming/lab03/lab03/Lab-03b-server/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/уник/system_programming/lab03/lab03/Lab-03b-server/build/Project.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

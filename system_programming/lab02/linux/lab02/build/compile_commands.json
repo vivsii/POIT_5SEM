@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/mnt/c/уник/system_programming/lab02/linux/lab02/build",
+  "command": "/usr/bin/clang   -std=gnu11 -o CMakeFiles/lab02_x.dir/lab02_x.c.o -c /mnt/c/уник/system_programming/lab02/linux/lab02/lab02_x.c",
+  "file": "/mnt/c/уник/system_programming/lab02/linux/lab02/lab02_x.c"
+},
+{
+  "directory": "/mnt/c/уник/system_programming/lab02/linux/lab02/build",
+  "command": "/usr/bin/clang   -std=gnu11 -o CMakeFiles/lab02_e.dir/lab02_e.c.o -c /mnt/c/уник/system_programming/lab02/linux/lab02/lab02_e.c",
+  "file": "/mnt/c/уник/system_programming/lab02/linux/lab02/lab02_e.c"
+}
+]

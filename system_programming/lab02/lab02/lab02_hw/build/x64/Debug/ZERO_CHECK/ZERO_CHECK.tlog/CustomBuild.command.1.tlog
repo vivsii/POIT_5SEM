@@ -1,0 +1,10 @@
+^C:\УНИК\SYSTEM_PROGRAMMING\LAB02\LAB02_HW\BUILD\CMAKEFILES\31A20FE7A4D211A4265DBBB4C30860EB\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/уник/system_programming/lab02/lab02_hw -BC:/уник/system_programming/lab02/lab02_hw/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/уник/system_programming/lab02/lab02_hw/build/Project.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,1 @@
+/usr/bin/cc "CMakeFiles/lab-08c.dir/lab-08c.c.o" -o lab-08c  ../Mapping/libMapping.a 

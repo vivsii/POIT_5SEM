@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cookies": "^0.9.1",
+    "express": "^4.21.1",
+    "express-session": "^1.18.1",
+    "ts-node": "^10.9.2"
+  }
+}

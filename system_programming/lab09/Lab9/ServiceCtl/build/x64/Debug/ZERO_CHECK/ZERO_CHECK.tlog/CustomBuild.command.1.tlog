@@ -1,0 +1,10 @@
+^D:\BSTU 5 SEM\SP\LABA9\LAB9\SERVICECTL\BUILD\CMAKEFILES\17BD0681E3BAECB6CD43EEB738A8AB95\GENERATE.STAMP.RULE
+setlocal
+D:\PROGRAMS\Cmake\bin\cmake.exe "-SD:/BSTU 5 sem/SP/LABA9/Lab9/ServiceCtl" "-BD:/BSTU 5 sem/SP/LABA9/Lab9/ServiceCtl/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/BSTU 5 sem/SP/LABA9/Lab9/ServiceCtl/build/ServiceCtl.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

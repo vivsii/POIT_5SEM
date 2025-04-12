@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/lab-05d.dir/lab-05d.c.o -o lab-05d 

@@ -1,0 +1,6 @@
+﻿  lab02_a.c
+C:\уник\system_programming\lab02\lab02_a\lab02_a.c(25,24): warning C4133: функция: несовместимые типы - из "const char *" в "LPCWSTR"
+C:\уник\system_programming\lab02\lab02_a\lab02_a.c(33,30): warning C4133: функция: несовместимые типы - из "char [256]" в "LPWSTR"
+C:\уник\system_programming\lab02\lab02_a\lab02_a.c(41,24): warning C4133: функция: несовместимые типы - из "const char *" в "LPCWSTR"
+C:\уник\system_programming\lab02\lab02_a\lab02_a.c(41,36): warning C4133: функция: несовместимые типы - из "char [256]" в "LPWSTR"
+  lab02_a.vcxproj -> C:\уник\system_programming\lab02\x64\Debug\lab02_a.exe

@@ -1,0 +1,3 @@
+/mnt/c/уник/системное программирование/Project1/build/CMakeFiles/StrTypeChecker.dir
+/mnt/c/уник/системное программирование/Project1/build/CMakeFiles/edit_cache.dir
+/mnt/c/уник/системное программирование/Project1/build/CMakeFiles/rebuild_cache.dir

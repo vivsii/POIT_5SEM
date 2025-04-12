@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Лабораторная работа 1</title>
+    <script>
+        function showBrowserInfo() {
+            // Получение информации о браузере
+            let browserInfo = "Браузер: " + navigator.appName + "\nВерсия: " + navigator.appVersion;
+
+            // Отображение информации пользователю
+            alert(browserInfo);
+
+            // Вывод сообщения в консоль разработчика
+            console.log("Hello World");
+        }
+    </script>
+</head>
+<body>
+    <h1>Лабораторная работа 1</h1>
+    
+    <!-- Ссылка на сайт БГТУ -->
+    <p>Перейти на сайт <a href="https://www.belstu.by" target="_blank">БГТУ</a></p>
+    
+    <!-- Кнопка для отображения информации о браузере -->
+    <button onclick="showBrowserInfo()">Показать информацию о браузере</button>
+</body>
+</html>

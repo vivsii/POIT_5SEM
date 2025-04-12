@@ -1,0 +1,10 @@
+^C:\УНИК\SYSTEM_PROGRAMMING\LAB05\LAB05_WINDOWS\LAB-05A\BUILD\CMAKEFILES\6E5AD4AA78D28B3BEE95D383E2E3DAB9\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/уник/system_programming/lab05/lab05_windows/lab-05a -BC:/уник/system_programming/lab05/lab05_windows/lab-05a/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/уник/system_programming/lab05/lab05_windows/lab-05a/build/lab-05a.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

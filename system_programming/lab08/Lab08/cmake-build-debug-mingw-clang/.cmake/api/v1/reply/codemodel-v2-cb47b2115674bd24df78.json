@@ -1,0 +1,201 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Mapping",
+					"jsonFile" : "directory-Mapping-Debug-9d97b71616a7cf4790c3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "Mapping",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "Lab-08a",
+					"jsonFile" : "directory-Lab-08a-Debug-3e3d117b835a4cfe5236.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "Lab-08a",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "Lab-08b",
+					"jsonFile" : "directory-Lab-08b-Debug-59749d6f207a5491d00d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Lab-08b",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Mappingd",
+					"jsonFile" : "directory-Mappingd-Debug-024fcd757c24f5027a26.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Mappingd",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "Mappingd-2",
+					"jsonFile" : "directory-Mappingd-2-Debug-d5138b42afb58797fea6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Mappingd-2",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						3,
+						4,
+						5
+					],
+					"name" : "Lab08",
+					"targetIndexes" : 
+					[
+						0,
+						3,
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "Mapping",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "Lab_08a",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 3,
+					"id" : "Lab-08b::@fd9c20d937b81f271049",
+					"jsonFile" : "target-Lab-08b-Debug-7e24489c59335a52ac99.json",
+					"name" : "Lab-08b",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Lab_08a::@c9ed6f6a33986325d331",
+					"jsonFile" : "target-Lab_08a-Debug-793d0ec9efb47934fb6f.json",
+					"name" : "Lab_08a",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Mapping::@087135daa8d1bf77cf32",
+					"jsonFile" : "target-Mapping-Debug-631f4955304126e865b1.json",
+					"name" : "Mapping",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "Mappingd::@f48f4529fda2789d5eb2",
+					"jsonFile" : "target-Mappingd-Debug-88ade3c0223e512b4d4b.json",
+					"name" : "Mappingd",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "Mappingd-2::@b163ebf8cc0b05149d93",
+					"jsonFile" : "target-Mappingd-2-Debug-6259776f9fa79285a9b8.json",
+					"name" : "Mappingd-2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/ClionProjects/SP/Lab08/cmake-build-debug-mingw-clang",
+		"source" : "D:/ClionProjects/SP/Lab08"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

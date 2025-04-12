@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/ClionProjects/SP/Lab08/cmake-build-debug-mingw-clang",
+  "command": "D:\\MSYS2\\mingw64\\bin\\clang.exe -g -fansi-escape-codes -fcolor-diagnostics -o Lab-08b\\CMakeFiles\\Lab-08b.dir\\Lab-08b.c.obj -c D:\\ClionProjects\\SP\\Lab08\\Lab-08b\\Lab-08b.c",
+  "file": "D:\\ClionProjects\\SP\\Lab08\\Lab-08b\\Lab-08b.c",
+  "output": "Lab-08b\\CMakeFiles\\Lab-08b.dir\\Lab-08b.c.obj"
+}
+]

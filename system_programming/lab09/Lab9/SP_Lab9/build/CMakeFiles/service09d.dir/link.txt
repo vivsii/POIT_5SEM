@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/service09d.dir/monitor_demon.c.o -o service09d 

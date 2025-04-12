@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>B</title>
+</head>
+<body>
+  <h1>Введите значение n:</h1>
+  <form id="generateForm">
+    <input type="number" id="valueN" name="valueN" placeholder="Введите значение n">
+    <br/>
+    <button type="submit">Сгенерировать</button>
+  </form>
+  <h1>Результат:</h1>
+  <div id="result"></div>
+
+  <script>
+    const form = document.getElementById('generateForm');
+    const resultB = document.getElementById('result');
+
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+
+      const n = document.getElementById('valueN').value;
+
+      const xhrB = new XMLHttpRequest();
+      xhrB.open('POST', '/generate', false);
+      xhrB.setRequestHeader('Content-Type', 'application/json');
+      xhrB.setRequestHeader('X-rand-n', n);
+
+      xhrB.onload = () => {
+        if (xhrB.status === 200) {
+          const dataB = JSON.parse(xhrB.responseText);
+          resultB.textContent = `Генерация чисел (B): ${dataB.numbers}`;
+        }
+      };
+
+      xhrB.send();
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task A</title>
+</head>
+<body>
+    <h3>Введите значения X и Y</h3>
+    <form id="sumf">
+        <label for="valueX">значение X: <span id="xOutput">0</span></label>
+        <input type="range" id="valueX" name="valueX" min="0" max="100" value="0" oninput="document.getElementById('xOutput').innerText = this.value">
+        <br/>
+        <label for="valueY">значение Y: <span id="yOutput">0</span></label>
+        <input type="range" id="valueY" name="valueY" min="0" max="100" value="0" oninput="document.getElementById('yOutput').innerText = this.value">
+        <br/>
+        <button type="submit">сумма</button>
+    </form>
+    
+    <h3>результат:</h3>
+    <div id="result"></div>
+
+    <script>
+        const form = document.getElementById('sumf');
+        const resA = document.getElementById('result');
+
+        form.addEventListener('submit', async(e) =>{
+    e.preventDefault();
+
+    const x = document.getElementById('valueX').value;
+    const y = document.getElementById('valueY').value;
+
+    const xhrA = new XMLHttpRequest();
+    xhrA.open('POST', '/sum', false);
+    xhrA.setRequestHeader('Content-Type', 'text/plain');
+    xhrA.setRequestHeader('X-value-x', x);
+    xhrA.setRequestHeader('X-value-y', y);
+
+    xhrA.onload = function(){
+        if(xhrA.status === 200){
+            resA.textContent = xhrA.responseText;
+        }
+    };
+    xhrA.send();
+});
+
+    </script>
+</body>
+</html>

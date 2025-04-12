@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0443\u043D\u0438\u043A\\system_programming\\lab02\\lab02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADB0C30-A58F-4583-968C-448E4E65D605}|lab02_d\\lab02_d.vcxproj|C:\\\u0443\u043D\u0438\u043A\\system_programming\\lab02\\lab02\\lab02_d\\lab02_d.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2ADB0C30-A58F-4583-968C-448E4E65D605}|lab02_d\\lab02_d.vcxproj|solutionrelative:lab02_d\\lab02_d.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E003AF1-1DD4-475F-A3C6-929759C22EC4}|lab02_b\\lab02_b.vcxproj|C:\\\u0443\u043D\u0438\u043A\\system_programming\\lab02\\lab02\\lab02_b\\lab02_b.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E003AF1-1DD4-475F-A3C6-929759C22EC4}|lab02_b\\lab02_b.vcxproj|solutionrelative:lab02_b\\lab02_b.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876AD134-9A37-416B-8615-0190BF0E778D}|lab02_a\\lab02_a.vcxproj|C:\\\u0443\u043D\u0438\u043A\\system_programming\\lab02\\lab02\\lab02_a\\lab02_a.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{876AD134-9A37-416B-8615-0190BF0E778D}|lab02_a\\lab02_a.vcxproj|solutionrelative:lab02_a\\lab02_a.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2199BC69-6A08-4ABC-BB40-CF1D92550EB6}|lab02_c\\lab02_c.vcxproj|C:\\\u0443\u043D\u0438\u043A\\system_programming\\lab02\\lab02\\lab02_c\\lab02_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2199BC69-6A08-4ABC-BB40-CF1D92550EB6}|lab02_c\\lab02_c.vcxproj|solutionrelative:lab02_c\\lab02_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CEC7B5-881B-4244-9F7C-550B193A5FE7}|lab02_x_modified\\lab02_x_modified.vcxproj|C:\\\u0443\u043D\u0438\u043A\\system_programming\\lab02\\lab02\\lab02_x_modified\\lab02_x_modified.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37CEC7B5-881B-4244-9F7C-550B193A5FE7}|lab02_x_modified\\lab02_x_modified.vcxproj|solutionrelative:lab02_x_modified\\lab02_x_modified.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D51751-F51C-43CA-9CC1-BEA5649C17D9}|lab02_x\\lab02_x.vcxproj|C:\\\u0443\u043D\u0438\u043A\\system_programming\\lab02\\lab02\\lab02_x\\lab02_x.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3D51751-F51C-43CA-9CC1-BEA5649C17D9}|lab02_x\\lab02_x.vcxproj|solutionrelative:lab02_x\\lab02_x.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB4B8309-5BE1-4FA3-9859-167E18438014}|lab02_inf\\lab02_inf.vcxproj|C:\\\u0443\u043D\u0438\u043A\\system_programming\\lab02\\lab02\\lab02_inf\\lab02_inf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB4B8309-5BE1-4FA3-9859-167E18438014}|lab02_inf\\lab02_inf.vcxproj|solutionrelative:lab02_inf\\lab02_inf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA597B5-8015-47DF-AC7A-928247DDA4F9}|lab02_hw\\lab02_hw.vcxproj|C:\\\u0443\u043D\u0438\u043A\\system_programming\\lab02\\lab02\\lab02_hw\\lab02_hw.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4DA597B5-8015-47DF-AC7A-928247DDA4F9}|lab02_hw\\lab02_hw.vcxproj|solutionrelative:lab02_hw\\lab02_hw.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\Rar$DRa6516.19771\\lab02\\afb\\Lab_02c\\Lab_02c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\Rar$DRa7244.37964\\lab02\\afb\\Lab_02inf_d\\Lab_02d.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\Rar$DRa7244.38577\\lab02\\afb\\Lab_02inf_d\\Lab_02inf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\Rar$DIa7244.14606\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\Rar$DIa1772.41534\\Lab_02inf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\Rar$DRa7576.32789\\lab02\\afb\\Lab_02c\\Lab_02c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Lab_02d.c",
+              "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\Temp\\Rar$DRa7244.37964\\lab02\\afb\\Lab_02inf_d\\Lab_02d.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\user\\AppData\\Local\\Temp\\Rar$DRa7244.37964\\lab02\\afb\\Lab_02inf_d\\Lab_02d.c",
+              "ToolTip": "C:\\Users\\user\\AppData\\Local\\Temp\\Rar$DRa7244.37964\\lab02\\afb\\Lab_02inf_d\\Lab_02d.c",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\user\\AppData\\Local\\Temp\\Rar$DRa7244.37964\\lab02\\afb\\Lab_02inf_d\\Lab_02d.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-04T23:54:30.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lab02_x_modified.c",
+              "DocumentMoniker": "C:\\\u0443\u043D\u0438\u043A\\system_programming\\lab02\\lab02\\lab02_x_modified\\lab02_x_modified.c",
+              "RelativeDocumentMoniker": "lab02_x_modified\\lab02_x_modified.c",
+              "ToolTip": "C:\\\u0443\u043D\u0438\u043A\\system_programming\\lab02\\lab02\\lab02_x_modified\\lab02_x_modified.c",
+              "RelativeToolTip": "lab02_x_modified\\lab02_x_modified.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-04T23:51:45.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\Temp\\Rar$DIa7244.14606\\main.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\user\\AppData\\Local\\Temp\\Rar$DIa7244.14606\\main.c",
+              "ToolTip": "C:\\Users\\user\\AppData\\Local\\Temp\\Rar$DIa7244.14606\\main.c",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\user\\AppData\\Local\\Temp\\Rar$DIa7244.14606\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-04T23:42:16.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Lab_02inf.c",
+              "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\Temp\\Rar$DIa1772.41534\\Lab_02inf.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\user\\AppData\\Local\\Temp\\Rar$DIa1772.41534\\Lab_02inf.c",
+              "ToolTip": "C:\\Users\\user\\AppData\\Local\\Temp\\Rar$DIa1772.41534\\Lab_02inf.c",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\user\\AppData\\Local\\Temp\\Rar$DIa1772.41534\\Lab_02inf.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-04T23:38:26.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "lab02_c.c",
+              "DocumentMoniker": "C:\\\u0443\u043D\u0438\u043A\\system_programming\\lab02\\lab02\\lab02_c\\lab02_c.c",
+              "RelativeDocumentMoniker": "lab02_c\\lab02_c.c",
+              "ToolTip": "C:\\\u0443\u043D\u0438\u043A\\system_programming\\lab02\\lab02\\lab02_c\\lab02_c.c",
+              "RelativeToolTip": "lab02_c\\lab02_c.c",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAFQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-04T09:27:13.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Lab_02c.c",
+              "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\Temp\\Rar$DRa7576.32789\\lab02\\afb\\Lab_02c\\Lab_02c.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\user\\AppData\\Local\\Temp\\Rar$DRa7576.32789\\lab02\\afb\\Lab_02c\\Lab_02c.c",
+              "ToolTip": "C:\\Users\\user\\AppData\\Local\\Temp\\Rar$DRa7576.32789\\lab02\\afb\\Lab_02c\\Lab_02c.c",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\user\\AppData\\Local\\Temp\\Rar$DRa7576.32789\\lab02\\afb\\Lab_02c\\Lab_02c.c",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-04T09:26:58.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "lab02_hw.c",
+              "DocumentMoniker": "C:\\\u0443\u043D\u0438\u043A\\system_programming\\lab02\\lab02\\lab02_hw\\lab02_hw.c",
+              "RelativeDocumentMoniker": "lab02_hw\\lab02_hw.c",
+              "ToolTip": "C:\\\u0443\u043D\u0438\u043A\\system_programming\\lab02\\lab02\\lab02_hw\\lab02_hw.c",
+              "RelativeToolTip": "lab02_hw\\lab02_hw.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-04T09:25:20.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab02_b.c",
+              "DocumentMoniker": "C:\\\u0443\u043D\u0438\u043A\\system_programming\\lab02\\lab02\\lab02_b\\lab02_b.c",
+              "RelativeDocumentMoniker": "lab02_b\\lab02_b.c",
+              "ToolTip": "C:\\\u0443\u043D\u0438\u043A\\system_programming\\lab02\\lab02\\lab02_b\\lab02_b.c",
+              "RelativeToolTip": "lab02_b\\lab02_b.c",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-04T09:21:45.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lab02_a.c",
+              "DocumentMoniker": "C:\\\u0443\u043D\u0438\u043A\\system_programming\\lab02\\lab02\\lab02_a\\lab02_a.c",
+              "RelativeDocumentMoniker": "lab02_a\\lab02_a.c",
+              "ToolTip": "C:\\\u0443\u043D\u0438\u043A\\system_programming\\lab02\\lab02\\lab02_a\\lab02_a.c",
+              "RelativeToolTip": "lab02_a\\lab02_a.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-04T08:49:40.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "lab02_x.c",
+              "DocumentMoniker": "C:\\\u0443\u043D\u0438\u043A\\system_programming\\lab02\\lab02\\lab02_x\\lab02_x.c",
+              "RelativeDocumentMoniker": "lab02_x\\lab02_x.c",
+              "ToolTip": "C:\\\u0443\u043D\u0438\u043A\\system_programming\\lab02\\lab02\\lab02_x\\lab02_x.c",
+              "RelativeToolTip": "lab02_x\\lab02_x.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-04T08:47:29.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab02_d.c",
+              "DocumentMoniker": "C:\\\u0443\u043D\u0438\u043A\\system_programming\\lab02\\lab02\\lab02_d\\lab02_d.c",
+              "RelativeDocumentMoniker": "lab02_d\\lab02_d.c",
+              "ToolTip": "C:\\\u0443\u043D\u0438\u043A\\system_programming\\lab02\\lab02\\lab02_d\\lab02_d.c",
+              "RelativeToolTip": "lab02_d\\lab02_d.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-04T23:58:08.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "lab02_inf.c",
+              "DocumentMoniker": "C:\\\u0443\u043D\u0438\u043A\\system_programming\\lab02\\lab02\\lab02_inf\\lab02_inf.c",
+              "RelativeDocumentMoniker": "lab02_inf\\lab02_inf.c",
+              "ToolTip": "C:\\\u0443\u043D\u0438\u043A\\system_programming\\lab02\\lab02\\lab02_inf\\lab02_inf.c",
+              "RelativeToolTip": "lab02_inf\\lab02_inf.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-04T23:56:56.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Lab_02inf.c",
+              "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\Temp\\Rar$DRa7244.38577\\lab02\\afb\\Lab_02inf_d\\Lab_02inf.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\user\\AppData\\Local\\Temp\\Rar$DRa7244.38577\\lab02\\afb\\Lab_02inf_d\\Lab_02inf.c",
+              "ToolTip": "C:\\Users\\user\\AppData\\Local\\Temp\\Rar$DRa7244.38577\\lab02\\afb\\Lab_02inf_d\\Lab_02inf.c",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\user\\AppData\\Local\\Temp\\Rar$DRa7244.38577\\lab02\\afb\\Lab_02inf_d\\Lab_02inf.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-04T23:54:36.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Lab_02c.c",
+              "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\Temp\\Rar$DRa6516.19771\\lab02\\afb\\Lab_02c\\Lab_02c.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\user\\AppData\\Local\\Temp\\Rar$DRa6516.19771\\lab02\\afb\\Lab_02c\\Lab_02c.c",
+              "ToolTip": "C:\\Users\\user\\AppData\\Local\\Temp\\Rar$DRa6516.19771\\lab02\\afb\\Lab_02c\\Lab_02c.c",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\user\\AppData\\Local\\Temp\\Rar$DRa6516.19771\\lab02\\afb\\Lab_02c\\Lab_02c.c",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-08T12:59:48.371Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

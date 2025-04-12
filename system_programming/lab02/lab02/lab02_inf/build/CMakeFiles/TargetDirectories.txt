@@ -1,0 +1,3 @@
+C:/уник/system_programming/lab02/lab02_inf/build/CMakeFiles/lab02_inf.dir
+C:/уник/system_programming/lab02/lab02_inf/build/CMakeFiles/ALL_BUILD.dir
+C:/уник/system_programming/lab02/lab02_inf/build/CMakeFiles/ZERO_CHECK.dir

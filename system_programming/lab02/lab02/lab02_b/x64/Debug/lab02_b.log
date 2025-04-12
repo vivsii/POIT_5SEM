@@ -1,0 +1,8 @@
+﻿  lab02_b.c
+C:\уник\system_programming\lab02\lab02_b\lab02_b.c(25,24): warning C4133: функция: несовместимые типы - из "const char *" в "LPCWSTR"
+C:\уник\system_programming\lab02\lab02_b\lab02_b.c(34,30): warning C4133: функция: несовместимые типы - из "char [260]" в "LPWSTR"
+C:\уник\system_programming\lab02\lab02_b\lab02_b.c(40,32): warning C4133: функция: несовместимые типы - из "char [9]" в "LPCWSTR"
+C:\уник\system_programming\lab02\lab02_b\lab02_b.c(40,44): warning C4133: функция: несовместимые типы - из "char [3]" в "LPCWSTR"
+C:\уник\system_programming\lab02\lab02_b\lab02_b.c(44,48): warning C4477: "snprintf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "2" имеет тип "void *"
+C:\уник\system_programming\lab02\lab02_b\lab02_b.c(46,24): warning C4133: функция: несовместимые типы - из "const char *" в "LPCWSTR"
+  lab02_b.vcxproj -> C:\уник\system_programming\lab02\x64\Debug\lab02_b.exe

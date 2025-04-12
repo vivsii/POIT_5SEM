@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\уник\system_programming\lab04\lab04_windows\lab-04\lab-04.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\уник\system_programming\lab04\lab04_windows\lab-04\L4Thread.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\уник\system_programming\lab04\lab04_windows\lab-04\L4Thread.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\уник\system_programming\lab04\lab04_windows\lab-04\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{30E10A76-9A94-3B4C-B28A-A934A8B8C724}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BFC65A9B-CE2B-3695-B88E-B172121FDCA2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

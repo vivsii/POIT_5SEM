@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/ClionProjects/SP/Lab08Linux/cmake-build-debug",
+  "command": "\"D:\\CLion 2024.2.1\\bin\\mingw\\bin\\gcc.exe\" -g -std=gnu11 -fdiagnostics-color=always -o Lab-08d\\CMakeFiles\\Lab-08d.dir\\Lab-08d.c.obj -c D:\\ClionProjects\\SP\\Lab08Linux\\Lab-08d\\Lab-08d.c",
+  "file": "D:\\ClionProjects\\SP\\Lab08Linux\\Lab-08d\\Lab-08d.c",
+  "output": "Lab-08d\\CMakeFiles\\Lab-08d.dir\\Lab-08d.c.obj"
+}
+]

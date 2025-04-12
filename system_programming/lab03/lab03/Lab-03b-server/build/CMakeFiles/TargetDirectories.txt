@@ -1,0 +1,3 @@
+C:/уник/system_programming/lab03/lab03/Lab-03b-server/build/CMakeFiles/Lab-03b-server.dir
+C:/уник/system_programming/lab03/lab03/Lab-03b-server/build/CMakeFiles/ALL_BUILD.dir
+C:/уник/system_programming/lab03/lab03/Lab-03b-server/build/CMakeFiles/ZERO_CHECK.dir

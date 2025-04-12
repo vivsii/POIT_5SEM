@@ -1,0 +1,3 @@
+/mnt/c/уник/system_programming/lab04/lab04_linux/lab-04/build/CMakeFiles/lab-04.dir
+/mnt/c/уник/system_programming/lab04/lab04_linux/lab-04/build/CMakeFiles/edit_cache.dir
+/mnt/c/уник/system_programming/lab04/lab04_linux/lab-04/build/CMakeFiles/rebuild_cache.dir

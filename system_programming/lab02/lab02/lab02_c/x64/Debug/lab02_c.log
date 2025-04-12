@@ -1,0 +1,13 @@
+﻿  lab02_c.c
+C:\уник\system_programming\lab02\lab02\lab02_c\lab02_c.c(13,24): warning C4133: функция: несовместимые типы - из "const char *" в "LPCWSTR"
+C:\уник\system_programming\lab02\lab02\lab02_c\lab02_c.c(32,27): warning C4133: функция: несовместимые типы - из "char [260]" в "LPCWSTR"
+C:\уник\system_programming\lab02\lab02\lab02_c\lab02_c.c(37,29): warning C4133: функция: несовместимые типы - из "char [260]" в "LPCWSTR"
+C:\уник\system_programming\lab02\lab02\lab02_c\lab02_c.c(47,24): warning C4133: функция: несовместимые типы - из "char [260]" в "LPWSTR"
+C:\уник\system_programming\lab02\lab02\lab02_c\lab02_c.c(48,29): warning C4133: функция: несовместимые типы - из "char [260]" в "LPCWSTR"
+C:\уник\system_programming\lab02\lab02\lab02_c\lab02_c.c(58,25): warning C4133: функция: несовместимые типы - из "char [260]" в "LPWSTR"
+C:\уник\system_programming\lab02\lab02\lab02_c\lab02_c.c(59,29): warning C4133: функция: несовместимые типы - из "char [260]" в "LPCWSTR"
+C:\уник\system_programming\lab02\lab02\lab02_c\lab02_c.c(69,43): warning C4133: функция: несовместимые типы - из "char [5]" в "LPCWSTR"
+C:\уник\system_programming\lab02\lab02\lab02_c\lab02_c.c(69,51): warning C4133: функция: несовместимые типы - из "char [4096]" в "LPWSTR"
+C:\уник\system_programming\lab02\lab02\lab02_c\lab02_c.c(86,33): warning C4133: функция: несовместимые типы - из "char [260]" в "LPCWSTR"
+C:\уник\system_programming\lab02\lab02\lab02_c\lab02_c.c(23,10): warning C4101: currentDir: неиспользованная локальная переменная
+  lab02_c.vcxproj -> C:\уник\system_programming\lab02\lab02\x64\Debug\lab02_c.exe

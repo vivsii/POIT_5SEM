@@ -1,0 +1,10 @@
+EXPORTS
+    AddRow @1
+    CloseMapping @2
+    OpenMapping @3
+    PrintRow @4
+    PrintRows @5
+    RemRow @6
+    hFileMapping @7 DATA
+    listSize @8 DATA
+    pMappedView @9 DATA

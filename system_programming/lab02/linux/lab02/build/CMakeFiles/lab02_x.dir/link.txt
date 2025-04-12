@@ -1,0 +1,1 @@
+/usr/bin/clang -rdynamic CMakeFiles/lab02_x.dir/lab02_x.c.o -o lab02_x 

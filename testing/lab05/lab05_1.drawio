@@ -1,0 +1,287 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.17">
+  <diagram name="Страница — 1" id="pxMNLSiIU83ih-jLEPYE">
+    <mxGraphModel dx="783" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cnGBAjXCHqQipnmEgAY_-1" target="cnGBAjXCHqQipnmEgAY_-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-1" value="Начальная страница" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cnGBAjXCHqQipnmEgAY_-2" target="cnGBAjXCHqQipnmEgAY_-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-2" value="Каталог игр" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cnGBAjXCHqQipnmEgAY_-3" target="cnGBAjXCHqQipnmEgAY_-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-3" value="Регистрация пользователя" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-4" value="Сообщество" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-5" value="Поиск игр&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2230%22%20y%3D%2220%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-6" value="Просмотр страницы игры" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-7" value="Список желаемого" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cnGBAjXCHqQipnmEgAY_-9" target="cnGBAjXCHqQipnmEgAY_-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-9" value="Корзина" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cnGBAjXCHqQipnmEgAY_-10" target="cnGBAjXCHqQipnmEgAY_-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-10" value="Профиль&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-11" value="Домашняя страница&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%D0%9F%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C%26amp%3Bnbsp%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22240%22%20y%3D%22300%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-12" value="Обсуждения" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-14" value="Мастерская" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-15" value="Библиотека" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-16" value="Запуск игры" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cnGBAjXCHqQipnmEgAY_-17" target="cnGBAjXCHqQipnmEgAY_-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-17" value="Оплата" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cnGBAjXCHqQipnmEgAY_-18" target="cnGBAjXCHqQipnmEgAY_-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-18" value="Обзоры" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-19" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="10" y="10" width="20" height="23.46" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cnGBAjXCHqQipnmEgAY_-22" target="cnGBAjXCHqQipnmEgAY_-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="550" />
+              <mxPoint x="510" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-22" value="Начальная страница" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-23" value="Каталог игр" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-24" value="Регистрация пользователя" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-25" value="Сообщество" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-26" value="Поиск игр&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2230%22%20y%3D%2220%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-27" value="Просмотр страницы игры" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cnGBAjXCHqQipnmEgAY_-28" target="cnGBAjXCHqQipnmEgAY_-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-28" value="Список желаемого" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FS9eENbxQ4lnWhk1GLSg-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cnGBAjXCHqQipnmEgAY_-29" target="cnGBAjXCHqQipnmEgAY_-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="790" />
+              <mxPoint x="720" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-29" value="Корзина" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-30" value="Профиль&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-31" value="Домашняя страница&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%D0%9F%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C%26amp%3Bnbsp%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22240%22%20y%3D%22300%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-32" value="Обсуждения" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-33" value="Мастерская" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-34" value="Библиотека" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-35" value="Запуск игры" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-36" value="Оплата" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FS9eENbxQ4lnWhk1GLSg-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cnGBAjXCHqQipnmEgAY_-37" target="cnGBAjXCHqQipnmEgAY_-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-37" value="Обзоры" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-38" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="10" y="560" width="20" height="23.46" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-39" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="530" width="770" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cnGBAjXCHqQipnmEgAY_-9" target="cnGBAjXCHqQipnmEgAY_-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="300" as="sourcePoint" />
+            <mxPoint x="450" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-46" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="790" y="276.54" width="20" height="23.46" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cnGBAjXCHqQipnmEgAY_-51" target="cnGBAjXCHqQipnmEgAY_-55" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-51" value="Начальная страница" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-52" value="Каталог игр" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="1270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-53" value="Регистрация пользователя" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="1410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="cnGBAjXCHqQipnmEgAY_-54" target="cnGBAjXCHqQipnmEgAY_-61" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="1660" />
+              <mxPoint x="510" y="1660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-54" value="Сообщество" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="1550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cnGBAjXCHqQipnmEgAY_-55" target="cnGBAjXCHqQipnmEgAY_-56" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="1100" />
+              <mxPoint x="720" y="1100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-55" value="Поиск игр&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2230%22%20y%3D%2220%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FS9eENbxQ4lnWhk1GLSg-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cnGBAjXCHqQipnmEgAY_-56" target="cnGBAjXCHqQipnmEgAY_-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-56" value="Просмотр страницы игры" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-57" value="Список желаемого" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FS9eENbxQ4lnWhk1GLSg-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cnGBAjXCHqQipnmEgAY_-58" target="cnGBAjXCHqQipnmEgAY_-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="1250" />
+              <mxPoint x="720" y="1250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-58" value="Корзина" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-59" value="Профиль&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-60" value="Домашняя страница&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%D0%9F%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C%26amp%3Bnbsp%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22240%22%20y%3D%22300%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-61" value="Обсуждения" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="1550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-62" value="Мастерская" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="1550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cnGBAjXCHqQipnmEgAY_-63" target="cnGBAjXCHqQipnmEgAY_-64" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-63" value="Библиотека" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="1410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-64" value="Запуск игры" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="1410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-65" value="Оплата" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="1270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-66" value="Обзоры" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="1270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-67" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="10" y="1106.54" width="20" height="23.46" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-68" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="1080" width="770" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-72" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cnGBAjXCHqQipnmEgAY_-27" target="cnGBAjXCHqQipnmEgAY_-37" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="700" as="sourcePoint" />
+            <mxPoint x="450" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-74" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="790" y="700" width="20" height="23.46" as="geometry" />
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-79" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cnGBAjXCHqQipnmEgAY_-56" target="cnGBAjXCHqQipnmEgAY_-54" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1400" as="sourcePoint" />
+            <mxPoint x="450" y="1350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-84" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="cnGBAjXCHqQipnmEgAY_-61" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1400" as="sourcePoint" />
+            <mxPoint x="720" y="1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-86" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="cnGBAjXCHqQipnmEgAY_-65" target="cnGBAjXCHqQipnmEgAY_-63" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1400" as="sourcePoint" />
+            <mxPoint x="450" y="1350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cnGBAjXCHqQipnmEgAY_-87" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="790" y="1410" width="20" height="23.46" as="geometry" />
+        </mxCell>
+        <mxCell id="yAwiTjNbyxCHSI39aYjT-1" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;Тур 1: Интеллектуал в бизнес-районе&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Действия:&lt;/div&gt;&lt;div&gt;1. Регистрация и авторизация:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Проверить процесс регистрации нового пользователя.&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Изучить удобство авторизации с использованием различных методов (пароль, социальные сети).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Навигация:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Оценить структуру меню и доступность основных функций (например, поиск, фильтры).&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Проверить, как быстро и легко добраться до информации о играх.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Функциональность поиска.:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Использовать разные ключевые слова для поиска игры.&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Проверить фильтры по категориям, цене и рейтингу.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Обратная связь и поддержка:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Перейти на страницу сообщества.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Найти раздел с часто задаваемыми вопросами и поддержкой.&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Оценить скорость и качество ответа на запросы.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Фокус внимания:&lt;/div&gt;&lt;div&gt;- Удобство использования интерфейса.&lt;/div&gt;&lt;div&gt;- Доступность и полнота информации.&lt;/div&gt;&lt;div&gt;- Скорость выполнения ключевых действий.&lt;/div&gt;&lt;div&gt;---&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Тур 2: Любитель ночной жизни в туристическом районе&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Действия:&lt;/div&gt;&lt;div&gt;1. Поиск игр и акций:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Проверить, как легко найти информацию о предстоящих играх и акциях.&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Оценить качество представленных акций, событий.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Интерактивные элементы:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Изучить возможность оставлять отзывы и оценки для игр.&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Проверить, как работает функция &quot;поделиться&quot; в социальных сетях.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Опции корзины:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Проверить процесс добавления в корзину игр.&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Оценить наличие различных способов оплаты.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Мобильная оптимизация:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Проверить, как веб-приложение работает на мобильных устройствах.&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Оценить удобство использования интерфейса на маленьких экранах.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Фокус внимания:&lt;/div&gt;&lt;div&gt;- Атмосфера и визуальная привлекательность интерфейса.&lt;/div&gt;&lt;div&gt;- Удобство нахождения информации о мероприятиях.&lt;/div&gt;&lt;div&gt;- Интерактивные функции, способствующие вовлечению пользователей.&lt;/div&gt;&lt;div&gt;---&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Тур 3: Диверсант в плохом районе&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Действия:&lt;/div&gt;&lt;div&gt;1. Проверка на наличие ошибок:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Умышленно вводить некорректные данные (например, неверные форматы, пустые поля) в формах.&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Оценить, как приложение обрабатывает ошибки (сообщения об ошибках, перенаправления).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Безопасность данных:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Оценить, как защищены личные данные пользователей.&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Проверить наличие политик конфиденциальности и безопасности.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Работа с нестандартными ситуациями:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Проверить, как приложение реагирует на потерю соединения с интернетом во время выполнения действий.&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Оценить, как приложение восстанавливает сессию после сбоя.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Проверка нагрузки:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Оценить, как приложение работает при высоких нагрузках.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Фокус внимания:&lt;/div&gt;&lt;div&gt;- Устойчивость к ошибкам и безопасность данных.&lt;/div&gt;&lt;div&gt;- Способность приложения обрабатывать нестандартные ситуации.&lt;/div&gt;&lt;div&gt;- Общая надежность и производительность.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="20" y="1785" width="650" height="990" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

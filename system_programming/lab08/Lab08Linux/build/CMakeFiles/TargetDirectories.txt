@@ -1,0 +1,14 @@
+/mnt/d/ClionProjects/SP/Lab08Linux/build/CMakeFiles/edit_cache.dir
+/mnt/d/ClionProjects/SP/Lab08Linux/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/ClionProjects/SP/Lab08Linux/build/Lab-08c/CMakeFiles/lab-08c.dir
+/mnt/d/ClionProjects/SP/Lab08Linux/build/Lab-08c/CMakeFiles/edit_cache.dir
+/mnt/d/ClionProjects/SP/Lab08Linux/build/Lab-08c/CMakeFiles/rebuild_cache.dir
+/mnt/d/ClionProjects/SP/Lab08Linux/build/Lab-08d/CMakeFiles/Lab-08d.dir
+/mnt/d/ClionProjects/SP/Lab08Linux/build/Lab-08d/CMakeFiles/edit_cache.dir
+/mnt/d/ClionProjects/SP/Lab08Linux/build/Lab-08d/CMakeFiles/rebuild_cache.dir
+/mnt/d/ClionProjects/SP/Lab08Linux/build/Mapping/CMakeFiles/Mapping.dir
+/mnt/d/ClionProjects/SP/Lab08Linux/build/Mapping/CMakeFiles/edit_cache.dir
+/mnt/d/ClionProjects/SP/Lab08Linux/build/Mapping/CMakeFiles/rebuild_cache.dir
+/mnt/d/ClionProjects/SP/Lab08Linux/build/Mappingd/CMakeFiles/Mappingd.dir
+/mnt/d/ClionProjects/SP/Lab08Linux/build/Mappingd/CMakeFiles/edit_cache.dir
+/mnt/d/ClionProjects/SP/Lab08Linux/build/Mappingd/CMakeFiles/rebuild_cache.dir

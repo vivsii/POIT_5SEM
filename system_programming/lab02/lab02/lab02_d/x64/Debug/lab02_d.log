@@ -1,0 +1,4 @@
+﻿  lab02_d.c
+C:\уник\system_programming\lab02\lab02_d\lab02_d.c(12,16): warning C4133: функция: несовместимые типы - из "LPSTR" в "LPWSTR"
+C:\уник\system_programming\lab02\lab02_d\lab02_d.c(29,30): warning C4133: функция: несовместимые типы - из "char [15]" в "LPWSTR"
+  lab02_d.vcxproj -> C:\уник\system_programming\lab02\x64\Debug\lab02_d.exe

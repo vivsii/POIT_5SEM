@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall CMakeFiles/lab-06f.dir/lab-06f.c.o -o lab-06f 

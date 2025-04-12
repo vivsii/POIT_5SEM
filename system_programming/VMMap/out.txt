@@ -1,0 +1,126 @@
+Process: lab-05a.exe
+PID: 12476
+
+Type         Size              Committed  Private  Total WS  Private WS  Shareable WS  Shared WS  Locked WS  Blocks  Largest           
+Total        4 243 236         9 776      464      3 324     432         2 892         2 892                 60      
+Free         137 434 710 336                                                                                 12      135 032 817 280
+Heap         1 480             148        84       88        84          4             4                     5       1 024
+Image        8 292             8 292      160      2 828     152         2 676         2 676                 32      3 064
+Managed Heap                                                                                                         
+Mapped File  804               804                 40                    40            40                    1       804
+Page Table   164               164        164      164       164                                                     
+Private Data 4 229 268         32         32       28        20          8             8                     9       4 194 432
+Shareable    1 316             312                 164                   164           164                   10      1 024
+Stack        1 024             24         24       12        12                                              3       1 024
+Unusable     888                                                                                                     60
+
+Address            Type                  Size          Committed  Private  Total WS  Private WS  Shareable WS  Shared WS  Locked WS  Blocks  Protection         Details                                                                        
+000000007FFE0000   Private Data          4             4          4        4                     4             4                     1       Read               
+  000000007FFE0000 Private Data          4             4          4        4                     4             4                             Read               Thread Environment Block
+000000007FFEF000   Private Data          4             4          4        4                     4             4                     1       Read               
+  000000007FFEF000 Private Data          4             4          4        4                     4             4                             Read               Thread Environment Block
+0000005FC1300000   Thread Stack          1 024         24         24       12        12                                              3       Read/Write/Guard   Thread ID: 9696
+  0000005FC1300000 Thread Stack          1 000                                                                                               Reserved           
+  0000005FC13FA000 Thread Stack          12            12         12                                                                         Read/Write/Guard   
+  0000005FC13FD000 Thread Stack          12            12         12       12        12                                                      Read/Write         
+0000005FC1400000   Private Data          2 048         12         12       12        12                                              3       Read/Write         Thread Environment Block
+  0000005FC1400000 Private Data          1 628                                                                                               Reserved           Thread Environment Block
+  0000005FC1597000 Private Data          12            12         12       12        12                                                      Read/Write         Thread Environment Block ID: 9696
+  0000005FC159A000 Private Data          408                                                                                                 Reserved           Thread Environment Block
+0000023229B10000   Heap (Shareable)      64            64                  4                     4             4                     1       Read/Write         Heap ID: 2 [COMPATABILITY]
+  0000023229B10000 Heap (Shareable)      64            64                  4                     4             4                             Read/Write         Heap ID: 0 (Default) [COMPATABILITY]
+0000023229B20000   Shareable             4             4                   4                     4             4                     1       Read               
+  0000023229B20000 Shareable             4             4                   4                     4             4                             Read               
+0000023229B30000   Shareable             116           116                 108                   108           108                   1       Read               
+  0000023229B30000 Shareable             116           116                 108                   108           108                           Read               
+0000023229B50000   Shareable             16            16                  8                     8             8                     1       Read               
+  0000023229B50000 Shareable             16            16                  8                     8             8                             Read               
+0000023229B60000   Shareable             4             4                   4                     4             4                     1       Read               
+  0000023229B60000 Shareable             4             4                   4                     4             4                             Read               
+0000023229B70000   Private Data          8             8          8        8         8                                               1       Read/Write         
+  0000023229B70000 Private Data          8             8          8        8         8                                                       Read/Write         Thread Environment Block
+0000023229B80000   Mapped File           804           804                 40                    40            40                    1       Read               C:\Windows\System32\locale.nls
+  0000023229B80000 Mapped File           804           804                 40                    40            40                            Read               
+0000023229C50000   Shareable             4             4                   4                     4             4                     1       Read               
+  0000023229C50000 Shareable             4             4                   4                     4             4                             Read               
+0000023229C60000   Shareable             4             4                   4                     4             4                     1       Read               
+  0000023229C60000 Shareable             4             4                   4                     4             4                             Read               
+0000023229C70000   Heap (Private Data)   392           8          8        8         8                                               2       Read/Write         Heap ID: 1 [LOW FRAGMENTATION]
+  0000023229C70000 Heap (Private Data)   8             8          8        8         8                                                       Read/Write         Heap ID: 0 (Default) [COMPATABILITY]
+  0000023229C72000 Heap (Private Data)   384                                                                                                 Reserved           Heap ID: 0 (Default) [COMPATABILITY]
+0000023229CF0000   Heap (Private Data)   1 024         76         76       76        76                                              2       Read/Write         Heap ID: 1 [LOW FRAGMENTATION]
+  0000023229CF0000 Heap (Private Data)   76            76         76       76        76                                                      Read/Write         Heap ID: 0 (Default) [COMPATABILITY]
+  0000023229D03000 Heap (Private Data)   948                                                                                                 Reserved           Heap ID: 0 (Default) [COMPATABILITY]
+00007FF47EF90000   Shareable             1 024         20                  8                     8             8                     2       Read               
+  00007FF47EF90000 Shareable             20            20                  8                     8             8                             Read               
+  00007FF47EF95000 Shareable             1 004                                                                                               Reserved           
+00007FF47F090000   Private Data          4 194 432                                                                                   1       Reserved           
+  00007FF47F090000 Private Data          4 194 432                                                                                           Reserved           Thread Environment Block
+00007FF57F0B0000   Private Data          32 772        4          4                                                                  2       Read/Write         
+  00007FF57F0B0000 Private Data          32 768                                                                                              Reserved           Thread Environment Block
+  00007FF5810B0000 Private Data          4             4          4                                                                          Read/Write         Thread Environment Block
+00007FF5810C0000   Shareable             4             4                                                                             1       Read               
+  00007FF5810C0000 Shareable             4             4                                                                                     Read               
+00007FF5810D0000   Shareable             140           140                 24                    24            24                    1       Read               
+  00007FF5810D0000 Shareable             140           140                 24                    24            24                            Read               
+00007FF73B120000   Image (ASLR)          72            72         4        56        8           48            48                    5       Execute/Read       C:\óíèê\system_programming\lab05\lab05_windows\lab-05a\build\Debug\lab-05a.exe
+  00007FF73B120000 Image (ASLR)          4             4                   4                     4             4                             Read               Header
+  00007FF73B121000 Image (ASLR)          32            32                  24                    24            24                            Execute/Read       .text
+  00007FF73B129000 Image (ASLR)          12            12                  12                    12            12                            Read               .rdata
+  00007FF73B12C000 Image (ASLR)          4             4          4        4         4                                                       Read/Write         .data
+  00007FF73B12D000 Image (ASLR)          4             4                                                                                     Read               .pdata
+  00007FF73B12E000 Image (ASLR)          4             4          4        4         4                                                       Read               .idata
+  00007FF73B12F000 Image (ASLR)          4             4                   4                     4             4                             Read               .00cfg
+  00007FF73B130000 Image (ASLR)          4             4                   4                     4             4                             Read               .rsrc
+  00007FF73B131000 Image (ASLR)          4             4                                                                                     Read               .reloc
+00007FFA15630000   Image (ASLR)          2 180         2 180      12       532       16          516           516                   5       Execute/Read       C:\Windows\System32\ucrtbased.dll
+  00007FFA15630000 Image (ASLR)          4             4                   4                     4             4                             Read               Header
+  00007FFA15631000 Image (ASLR)          1 688         1 688               416                   416           416                           Execute/Read       .text
+  00007FFA157D7000 Image (ASLR)          392           392        4        96        4           92            92                            Read               .rdata
+  00007FFA15839000 Image (ASLR)          12            12         12       12        12                                                      Read/Write         .data
+  00007FFA1583C000 Image (ASLR)          76            76                                                                                    Read               .pdata
+  00007FFA1584F000 Image (ASLR)          4             4                   4                     4             4                             Read               .rsrc
+  00007FFA15850000 Image (ASLR)          4             4                                                                                     Read               .reloc
+00007FFA6A420000   Image (ASLR)          184           184        4        52        8           44            44                    5       Execute/Read       C:\Windows\System32\vcruntime140d.dll
+  00007FFA6A420000 Image (ASLR)          4             4                   4                     4             4                             Read               Header
+  00007FFA6A421000 Image (ASLR)          128           128                 24                    24            24                            Execute/Read       .text
+  00007FFA6A441000 Image (ASLR)          4             4                                                                                     Execute/Read       fothk
+  00007FFA6A442000 Image (ASLR)          24            24         4        16        4           12            12                            Read               .rdata
+  00007FFA6A448000 Image (ASLR)          4             4          4        4         4                                                       Read/Write         .data
+  00007FFA6A449000 Image (ASLR)          8             8                                                                                     Read               .pdata
+  00007FFA6A44B000 Image (ASLR)          4             4                                                                                     Read               _RDATA
+  00007FFA6A44C000 Image (ASLR)          4             4                   4                     4             4                             Read               .rsrc
+  00007FFA6A44D000 Image (ASLR)          4             4                                                                                     Read               .reloc
+00007FFA6C1E0000   Image (ASLR)          3 064         3 064      20       508       36          472           472                   5       Execute/Read       C:\Windows\System32\KernelBase.dll
+  00007FFA6C1E0000 Image (ASLR)          4             4                   4                     4             4                             Read               Header
+  00007FFA6C1E1000 Image (ASLR)          1 252         1 252               300                   300           300                           Execute/Read       .text
+  00007FFA6C31A000 Image (ASLR)          1 548         1 548      12       164       12          152           152                           Read               .rdata
+  00007FFA6C49D000 Image (ASLR)          20            20         20       20        20                                                      Read/Write         .data
+  00007FFA6C4A2000 Image (ASLR)          68            68                  16                    16            16                            Read               .pdata
+  00007FFA6C4B3000 Image (ASLR)          4             4          4        4         4                                                       Read               .didat
+  00007FFA6C4B4000 Image (ASLR)          4             4                                                                                     Read               .rsrc
+  00007FFA6C4B5000 Image (ASLR)          164           164                                                                                   Read               .reloc
+00007FFA6DDB0000   Image (ASLR)          776           776        8        184       28          156           156                   5       Execute/Read       C:\Windows\System32\kernel32.dll
+  00007FFA6DDB0000 Image (ASLR)          4             4                   4                     4             4                             Read               Header
+  00007FFA6DDB1000 Image (ASLR)          516           516                 32                    32            32                            Execute/Read       .text
+  00007FFA6DE32000 Image (ASLR)          212           212        16       136       16          120           120                           Read               .rdata
+  00007FFA6DE67000 Image (ASLR)          8             8          8        8         8                                                       Read/Write         .data
+  00007FFA6DE69000 Image (ASLR)          24            24                                                                                    Read               .pdata
+  00007FFA6DE6F000 Image (ASLR)          4             4          4        4         4                                                       Read               .didat
+  00007FFA6DE70000 Image (ASLR)          4             4                                                                                     Read               .rsrc
+  00007FFA6DE71000 Image (ASLR)          4             4                                                                                     Read               .reloc
+00007FFA6E6D0000   Image (ASLR)          2 016         2 016      48       1 496     56          1 440         1 440                 7       Execute/Read       C:\Windows\System32\ntdll.dll
+  00007FFA6E6D0000 Image (ASLR)          4             4                   4                     4             4                             Read               Header
+  00007FFA6E6D1000 Image (ASLR)          1 128         1 128               1 128                 1 128         1 128                         Execute/Read       .text
+  00007FFA6E7EB000 Image (ASLR)          4             4                   4                     4             4                             Execute/Read       PAGE
+  00007FFA6E7EC000 Image (ASLR)          4             4                   4                     4             4                             Execute/Read       RT
+  00007FFA6E7ED000 Image (ASLR)          292           292                 236                   236           236                           Read               .rdata
+  00007FFA6E836000 Image (ASLR)          4             4          4        4         4                                                       Read/Write         .data
+  00007FFA6E837000 Image (ASLR)          8             8          8        4                     4             4                             Copy on write      .data
+  00007FFA6E839000 Image (ASLR)          36            36         36       36        36                                                      Read/Write         .data
+  00007FFA6E842000 Image (ASLR)          60            60                  52                    52            52                            Read               .pdata
+  00007FFA6E851000 Image (ASLR)          16            16         16       16        16                                                      Read               .mrdata
+  00007FFA6E855000 Image (ASLR)          4             4                   4                     4             4                             Read               .00cfg
+  00007FFA6E856000 Image (ASLR)          452           452                 4                     4             4                             Read               .rsrc
+  00007FFA6E8C7000 Image (ASLR)          4             4                                                                                     Read               .reloc
+

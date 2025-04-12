@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\уник\system_programming\lab03\lab03\Lab-03a-client\Lab-03a-client.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\уник\system_programming\lab03\lab03\Lab-03a-client\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{14EEA67E-20FB-3C62-A92E-9F1CC7103540}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

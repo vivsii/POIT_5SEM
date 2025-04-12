@@ -1,0 +1,10 @@
+^D:\BSTU 5 SEM\SP\LABA9\LAB9\SERVICECTL\CMAKELISTS.TXT
+setlocal
+D:\PROGRAMS\Cmake\bin\cmake.exe "-SD:/BSTU 5 sem/SP/LABA9/Lab9/ServiceCtl" "-BD:/BSTU 5 sem/SP/LABA9/Lab9/ServiceCtl/build" --check-stamp-file "D:/BSTU 5 sem/SP/LABA9/Lab9/ServiceCtl/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

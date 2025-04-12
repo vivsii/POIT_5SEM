@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/lab-04.dir/lab-04.cpp.o CMakeFiles/lab-04.dir/L4Thread.cpp.o -o lab-04 

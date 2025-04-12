@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/mnt/d/ClionProjects/SP/Lab08Linux/build/Lab-08d",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/Lab-08d.dir/Lab-08d.c.o -c /mnt/d/ClionProjects/SP/Lab08Linux/Lab-08d/Lab-08d.c",
+  "file": "/mnt/d/ClionProjects/SP/Lab08Linux/Lab-08d/Lab-08d.c"
+}
+]
